@@ -8,25 +8,23 @@ Estamos animados para apresentar os membros do Laboratório de Modelo de Regress
 
 A seguir, você encontrará informações sobre nossos pesquisadores, os alunos que desenvolvem projetos sob nossa orientação e os colaboradores que nos ajudam com sua expertise. Juntos, trabalhamos para explorar novas fronteiras na análise de dados e modelagem estatística.
 
-<ul>
-  <li><a href="#pesquisadores">Pesquisadores</a></li>
-  <li><a href="#colaboradores">Colaboradores</a></li>
-  <li><a href="#alunos">Alunos</a></li>
-  <li><a href="#exalunos">Ex-Alunos</a></li>
-  <li><a href="#contato">Contato</a></li>
-</ul>
 
-## <a id="pesquisadores"></a>Sobre o Laboratório
+## Pesquisadores
 
-- [Larissa Avila Matos]()
+- [Larissa Avila Matos](https://larissamatos.github.io/)
 
 - Filidor E. Labra
 
-- [Caio L. N. Azevedo]()
+- [Caio L. N. Azevedo](https://www.ime.unicamp.br/~cnaber/)
 
+## Colaboradores
 
-## <a id="colaboradores"></a>Colaboradores
+-
 
-## <a id="alunos"></a>Alunos
+## Alunos
 
-##  <a id="exalunos"></a>Ex-Alunos
+-
+
+## Ex-Alunos
+
+-

@@ -21,28 +21,10 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 
 -
 
--
-
--
-
--
-
--
-
-
 ## Alunos
 
-
+-
 
 ## Ex-Alunos
-
-
--
-
--
-
--
-
--
 
 -

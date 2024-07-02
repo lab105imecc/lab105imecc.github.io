@@ -13,20 +13,19 @@
 title: Laboratório de Regressão
 
 # Your name to show in the footer
-author: Larissa A. Matos
+author: Larissa
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Pesquisadores: "pesquisadores"
-  Alunos: "alunos"
-  Homepages: 
-    - Larissa A. Matos: "https://larissamatos.github.io/"
-    - Filidor E. Labra: ""
-    - Caio L. N. Azevedo: "https://www.ime.unicamp.br/~cnaber/"
-    
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
 ################
 # --- Logo --- #
 ################

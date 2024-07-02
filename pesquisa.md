@@ -6,7 +6,7 @@ subtitle:
 
 ## Projetos
 
-## Prêmios
+## Prêmios <i class="fa-solid fa-trophy" style='font-size:20px'></i>
 
 ## Dissertações/Teses
 

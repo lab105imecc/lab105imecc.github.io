@@ -3,7 +3,7 @@
     "path": "~/Desktop/GitHub/lab105imecc.github.io/_posts/2020-02-26-flake-it-till-you-make-it.md",
     "project_path": "_posts/2020-02-26-flake-it-till-you-make-it.md",
     "type": "markdown",
-    "hash": "1215077084",
+    "hash": "3031809676",
     "contents": "",
     "dirty": false,
     "created": 1719886593504.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "6,34",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1719881141,
+    "lastKnownWriteTime": 1719888677,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1719881141,
+    "last_content_update": 1719888677572,
     "read_only": false,
     "read_only_alternatives": []
 }

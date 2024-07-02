@@ -4,7 +4,7 @@ title: LMR
 subtitle: O Laboratório
 ---
 
-Fundado em 2018, o Laboratório de Regressão surgiu com o objetivo de ser um centro em pesquisa e desenvolvimento de técnicas avançadas de análise de dados e modelagem estatística. Desde então, temos trabalhado para promover o avanço do conhecimento científico e proporcionar soluções inovadoras para problemas complexos em diversas áreas.
+Fundado em 2018, o Laboratório de Regressão surgiu com o objetivo de ser um centro em pesquisa e desenvolvimento de técnicas avançadas de análise de dados e modelagem estatística. Localizado na sala 105 (L105) do Anexo II do IMECC, temos trabalhado para promover o avanço do conhecimento científico e proporcionar soluções inovadoras para problemas complexos em diversas áreas.
 
 **Nossas Linhas de Pesquisa**
 

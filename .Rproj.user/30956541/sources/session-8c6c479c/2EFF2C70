@@ -1,18 +1,18 @@
 {
-    "id": "0F32BDA3",
-    "path": "~/Desktop/GitHub/lab105imecc.github.io/_posts/2020-02-26-flake-it-till-you-make-it.md",
-    "project_path": "_posts/2020-02-26-flake-it-till-you-make-it.md",
+    "id": "2EFF2C70",
+    "path": "~/Desktop/GitHub/lab105imecc.github.io/_posts/noticias.md",
+    "project_path": "_posts/noticias.md",
     "type": "markdown",
-    "hash": "3031809676",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
-    "created": 1719886593504.0,
+    "dirty": true,
+    "created": 1719889137656.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,34",
+        "cursorPosition": "10,2",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1719888677572,
+    "last_content_update": 1719889198782,
     "read_only": false,
     "read_only_alternatives": []
 }

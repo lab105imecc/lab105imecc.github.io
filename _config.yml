@@ -21,7 +21,6 @@ author: Larissa A. Matos
 
 navbar-links:
   Membros: "membros"
-    icon: fa-users
   Pesquisa: "pesquisa"
   Homepages:
     - Larissa A. Matos: "https://larissamatos.github.io/"

@@ -28,3 +28,39 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 ## Ex-Alunos
 
 -
+
+
+<ul>
+  <li><a href=“#pesquisadores">Pesquisadores</a></li>
+  <li><a href=“#colaboradores”>Colaboradores</a></li>
+  <li><a href=“#alunos”>Alunos</a></li>
+  <li><a href=“#exalunos”>Ex-Alunos</a></li>
+</ul>
+
+## <a id=“pesquisadores></a>Pesquisadores
+<details>
+  <summary>Clique para expandir</summary>
+  - [Larissa Avila Matos](https://larissamatos.github.io/)
+
+  - Filidor E. Labra
+
+  - [Caio L. N. Azevedo](https://www.ime.unicamp.br/~cnaber/)
+</details>
+
+## <a id=“colaboradores"></a>Colaboradores
+<details>
+  <summary>Clique para expandir</summary>
+-
+</details>
+
+## <a id=“alunos"></a>Alunos
+<details>
+  <summary>Clique para expandir</summary>
+  -
+</details>
+
+## <a id=“exalunos"></a>Ex-Alunos
+<details>
+  <summary>Clique para expandir</summary>
+  -
+</details>

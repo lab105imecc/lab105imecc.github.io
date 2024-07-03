@@ -22,12 +22,12 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li><strong> Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA</li>
-    <li><strong> Prof. Mauricio Castro Cepero, Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile</li>
-    <li><strong> Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA</li>
-    <li><strong> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Ama- zonas - UFAM</li>
+    <li> Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA</li>
+    <li> Prof. Mauricio Castro Cepero, Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile</li>
+    <li> Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA</li>
+    <li> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Ama- zonas - UFAM</li>
     <li><strong> Prof. Marcos Oliveira Prates, Departamento de Estatística, Universidade Federal de Minas Gerais - UFMG</li>
-    <li><strong> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM</li>
+    <li> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM</li>
     <li><strong> Profa. Dra. Fernanda Lang Schumacher: The Ohio State University, Columbus, Ohio/EUA</li>
   </ul>
 </details>
@@ -36,10 +36,10 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li><strong> Carina Brunehilde Pinto da Silva</li>
-    <li><strong> Katherine Andreina Loor Valeriano</li>
-    <li><strong> Keyliane Travassos Almeida da Silva</li>
-    <li><strong> Francisco Hildemar Calixto de Alencar</li>
+    <li> Carina Brunehilde Pinto da Silva</li>
+    <li> Katherine Andreina Loor Valeriano</li>
+    <li> Keyliane Travassos Almeida da Silva</li>
+    <li> Francisco Hildemar Calixto de Alencar</li>
   </ul>
 </details>
 
@@ -47,12 +47,12 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li><strong> Christian Eduardo Galarza Morales</li>
-    <li><strong> Fernanda Lang Schumacher</li>
-    <li><strong> Jose Alejandro Ordoñez</li>
-    <li><strong> Letícia Bettine Infante</li>
-    <li><strong> Marcela Nuñez Lemus</li>
-    <li><strong> Thalita do Bem Mattos</li>
-    <li><strong> Vitor Macedo Rocha</li>
+    <li> Christian Eduardo Galarza Morales</li>
+    <li> Fernanda Lang Schumacher</li>
+    <li> Jose Alejandro Ordoñez</li>
+    <li> Letícia Bettine Infante</li>
+    <li> Marcela Nuñez Lemus</li>
+    <li> Thalita do Bem Mattos</li>
+    <li> Vitor Macedo Rocha</li>
   </ul>
 </details>

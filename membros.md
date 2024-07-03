@@ -21,47 +21,38 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 ## Colaboradores
 <details>
   <summary>Clique para expandir</summary>
-  - Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA
-
-  - Prof. Mauricio Castro Cepero, Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile
-
-  - Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA
-
-  - Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Ama- zonas - UFAM
-
-  - Prof. Marcos Oliveira Prates, Departamento de Estatística, Universidade Federal de Minas Gerais - UFMG
-
-  - Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM
-
-  - Profa. Dra. Fernanda Lang Schumacher: The Ohio State University, Columbus, Ohio/EUA
+  <ul>
+    <li><strong> Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA</li>
+    <li><strong> Prof. Mauricio Castro Cepero, Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile</li>
+    <li><strong> Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA</li>
+    <li><strong> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Ama- zonas - UFAM</li>
+    <li><strong> Prof. Marcos Oliveira Prates, Departamento de Estatística, Universidade Federal de Minas Gerais - UFMG</li>
+    <li><strong> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM</li>
+    <li><strong> Profa. Dra. Fernanda Lang Schumacher: The Ohio State University, Columbus, Ohio/EUA</li>
+  </ul>
 </details>
 
 ## Alunos
 <details>
   <summary>Clique para expandir</summary>
-  - Carina Brunehilde Pinto da Silva
-
-  - Katherine Andreina Loor Valeriano
-
-  - Keyliane Travassos Almeida da Silva
-
-  - Francisco Hildemar Calixto de Alencar
+  <ul>
+    <li><strong> Carina Brunehilde Pinto da Silva</li>
+    <li><strong> Katherine Andreina Loor Valeriano</li>
+    <li><strong> Keyliane Travassos Almeida da Silva</li>
+    <li><strong> Francisco Hildemar Calixto de Alencar</li>
+  </ul>
 </details>
 
 ## Ex-Alunos
 <details>
   <summary>Clique para expandir</summary>
-  - Christian Eduardo Galarza Morales
-
-  - Fernanda Lang Schumacher
-
-  - Jose Alejandro Ordoñez
-
-  - Letícia Bettine Infante
-
-  - Marcela Nuñez Lemus
-
-  - Thalita do Bem Mattos
-
-  - Vitor Macedo Rocha
+  <ul>
+    <li><strong> Christian Eduardo Galarza Morales</li>
+    <li><strong> Fernanda Lang Schumacher</li>
+    <li><strong> Jose Alejandro Ordoñez</li>
+    <li><strong> Letícia Bettine Infante</li>
+    <li><strong> Marcela Nuñez Lemus</li>
+    <li><strong> Thalita do Bem Mattos</li>
+    <li><strong> Vitor Macedo Rocha</li>
+  </ul>
 </details>

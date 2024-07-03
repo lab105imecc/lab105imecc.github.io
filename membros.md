@@ -38,8 +38,9 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <ul>
     <li> Carina Brunehilde Pinto da Silva</li>
     <li> Katherine Andreina Loor Valeriano</li>
-    <li> Keyliane Travassos Almeida da Silva</li>
+    <li> Keyliane Travassos de Castro</li>
     <li> Francisco Hildemar Calixto de Alencar</li>
+    <li> Matheus Oliveira de Castro</li>
   </ul>
 </details>
 

@@ -36,7 +36,10 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
+    <li> Amanda Merian Freitas Mendes </li>
+    <li> Áurea Fonseca Lopes Galindo </li>
     <li> Carina Brunehilde Pinto da Silva</li>
+    <li> João Victor Bastos de Freitas </li>
     <li> Katherine Andreina Loor Valeriano</li>
     <li> Keyliane Travassos de Castro</li>
     <li> Francisco Hildemar Calixto de Alencar</li>
@@ -49,7 +52,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <summary>Clique para expandir</summary>
   <ul>
     <li> Christian Eduardo Galarza Morales</li>
-    <li> Fernanda Lang Schumacher</li>
+    <li> David Esteban Sanchez Vega</li>
     <li> Jose Alejandro Ordoñez</li>
     <li> Letícia Bettine Infante</li>
     <li> Marcela Nuñez Lemus</li>

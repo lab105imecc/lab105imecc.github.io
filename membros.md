@@ -28,7 +28,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     <li> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Amazonas - UFAM </li>
     <li> Prof. Marcos Oliveira Prates, Departamento de Estatística, Universidade Federal de Minas Gerais - UFMG </li>
     <li> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM </li>
-    <li> Profa. Dra. Fernanda Lang Schumacher: The Ohio State University, Columbus, Ohio/EUA </li>
+    <li> Profa. Fernanda Lang Schumacher: The Ohio State University, Columbus, Ohio/EUA </li>
   </ul>
 </details>
 

@@ -23,10 +23,6 @@ navbar-links:
   LMR: "lmr"
   Membros: "membros"
   Pesquisa: "pesquisa"
-  Homepages:
-    - Larissa A. Matos: "https://larissamatos.github.io/"
-    - Filidor E. Labra: ""
-    - Caio L. N. Azevedo: "https://www.ime.unicamp.br/~cnaber/"
 
 ################
 # --- Logo --- #

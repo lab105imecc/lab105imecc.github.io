@@ -25,7 +25,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     <li> Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA </li>
     <li> Prof. Mauricio Castro Cepero, Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile </li>
     <li> Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA </li>
-    <li> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Ama- zonas - UFAM </li>
+    <li> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Amazonas - UFAM </li>
     <li> Prof. Marcos Oliveira Prates, Departamento de Estatística, Universidade Federal de Minas Gerais - UFMG </li>
     <li> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM </li>
     <li> Profa. Dra. Fernanda Lang Schumacher: The Ohio State University, Columbus, Ohio/EUA </li>

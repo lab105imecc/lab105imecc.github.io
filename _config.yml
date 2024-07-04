@@ -21,7 +21,7 @@ author: Larissa A. Matos
 
 navbar-links:
   LMR: "lmr"
-    - Linha de pesquisa: "lmr"
+    - Linha de pesquisa:
   Membros: "membros"
   Pesquisa: "pesquisa"
 

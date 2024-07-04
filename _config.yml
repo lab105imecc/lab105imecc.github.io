@@ -20,8 +20,8 @@ author: Larissa A. Matos
 ###############################################
 
 navbar-links:
-  LMR: "lmr"
-    - Linha de pesquisa:
+  LMR:
+    - Linha de pesquisa: "lmr"
   Membros: "membros"
   Pesquisa: "pesquisa"
 

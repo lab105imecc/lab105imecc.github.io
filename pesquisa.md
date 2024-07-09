@@ -16,15 +16,12 @@ Publicamos regularmente em revistas científicas de renome, compartilhando nosso
 Além dos projetos individuais, estamos engajados em colaborações com outras instituições.
 
 <details>
-  <summary>Projetos do Laboratório</summary>
+  <summary>Projeto do Laboratório</summary>
   <ul>
     <li> <strong>Modelos de regressão paramétrico e semi-paramétrico sob a classe de distribuições misturas de escala skew-normal.</strong>
-
-	   <em>Integrantes:</em> Larissa Avila Matos - Integrante / Filidor Vilca Labra - Coordenador / Caio Lucidius Naberezny Azevedo - Integrante.
-
-	   <em>Financiador(es):</em> Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio financeiro.
-
-	  <em> Descrição: </em> Modelos de regressão paramétrica e semi-paramétrica representam duas grandes áreas no contexto de modelagem, que têm encontrado aplicações em diferentes áreas. O objetivo deste projeto é considerar modelos de regressão na presença de efeitos aleatórios, que seguem distribuições na família das distribuições escala mistura skew-normal (Branco e Dey, 2001), que são usados efetivamente em estimação robusta na presença de observações extremas. Os principais modelos de regressão que serão considerados são: i) modelo linear misto, ii) modelo com error nas variáveis e iii) modelo de regressão da Teoria de Resposta ao Item (TRI). Para os dois primeiros modelos de regressão são considerados estudos de estimação e análise de diagnóstico, considerando estruturas paramétricas e semi-paramétricas (com resposta censurada). A regressão semi-paramétrica refere-se à incorporação flexível de relações funcionais não-lineares em análise de regressão. Por outro lado, no modelos de regressão da TRI, usado mais frequente em avaliações de traços latentes testes psicométricos, os modelos propostos são baseado em distribuição assimétricas centradas. Estimação são estudados sob um ponto de vista frequentista e Bayesiana. Os objetivos específicos são descritos com mais detalhes no corpo do projeto.  </li>
+	  <p><em>Integrantes:</em> Larissa Avila Matos / Filidor Vilca Labra - Coordenador / Caio Lucidius Naberezny Azevedo.</p>
+	  <p><em>Financiador(es):</em> Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio financeiro.</p>
+	  <p><em> Descrição: </em> Modelos de regressão paramétrica e semi-paramétrica representam duas grandes áreas no contexto de modelagem, que têm encontrado aplicações em diferentes áreas. O objetivo deste projeto é considerar modelos de regressão na presença de efeitos aleatórios, que seguem distribuições na família das distribuições escala mistura skew-normal (Branco e Dey, 2001), que são usados efetivamente em estimação robusta na presença de observações extremas. Os principais modelos de regressão que serão considerados são: i) modelo linear misto, ii) modelo com error nas variáveis e iii) modelo de regressão da Teoria de Resposta ao Item (TRI). Para os dois primeiros modelos de regressão são considerados estudos de estimação e análise de diagnóstico, considerando estruturas paramétricas e semi-paramétricas (com resposta censurada). A regressão semi-paramétrica refere-se à incorporação flexível de relações funcionais não-lineares em análise de regressão. Por outro lado, no modelos de regressão da TRI, usado mais frequente em avaliações de traços latentes testes psicométricos, os modelos propostos são baseado em distribuição assimétricas centradas. Estimação são estudados sob um ponto de vista frequentista e Bayesiana. Os objetivos específicos são descritos com mais detalhes no corpo do projeto.</p>  </li>
     </ul>
 </details>
 
@@ -59,27 +56,27 @@ Nossos alunos de mestrado e doutorado desenvolvem dissertações e teses que con
   <ul>
     <li> Doutorado </li>  
     <ul>    
-      <li> Fernanda Lang Schumacher. Robust linear mixed models for longitudinal data using skewed and heavy-tailed distributions. 2021. UNICAMP. </li>
-      <li> Jose Alejandro Ordoñez. On Default Priors for Regression Analysis. 2021. UNICAMP. </li>
-      <li> Christian Eduardo Galarza Morales. On Moments of doubly truncated multivariate distributions. 2020. UNICAMP. </li>
-      <li> Thalita do Bem Mattos. Parametric and semiparametric mixed-effects models for longitudinal censored data. 2020. UNICAMP. </li>
+      <li> Fernanda Lang Schumacher. <em>Robust linear mixed models for longitudinal data using skewed and heavy-tailed distributions</em>. 2021. UNICAMP. </li>
+      <li> Jose Alejandro Ordoñez. <em>On Default Priors for Regression Analysis</em>. 2021. UNICAMP. </li>
+      <li> Christian Eduardo Galarza Morales. <em>On Moments of doubly truncated multivariate distributions</em>. 2020. UNICAMP. </li>
+      <li> Thalita do Bem Mattos. <em>Parametric and semiparametric mixed-effects models for longitudinal censored data</em>. 2020. UNICAMP. </li>
     </ul>
     <li> Mestrado </li>  
     <ul>
-      <li> Letícia Bettine Infante. An extension of the Inverse Gaussian regression model. 2024. UNICAMP.</li>
-      <li> Vitor Macedo Rocha. Vitor Macedo Rocha. Ano de conclusão: 2024.Dissertação: Influence diagnostics in parametric mixed-effects models for longitudinal data using skew-normal distribution. 2024. UNICAMP.</li>
-      <li> Keyliane Travassos Almeida da Silva. Diagnostic analysis in scale mixture of skew-normal linear mixed models. 2023. UNICAMP. </li>
-      <li> Matheus Oliveira de Castro. Robust Quantile Regression Models for Limited Responses Using Finite Mixtures. 2023. UNICAMP. </li>
-      <li> Andreson Almeida Azevedo. A distribuição Birnbaum-Saunders baseada na distribuição Laplace Assimétrica. 2022.  UNICAMP. </li>
-      <li> Áurea Fonseca Lopes Galindo. Modelos semi-paramétricos para dados independentes e longitudinais com resposta limitada. 2022. UNICAMP.  </li>
-      <li> João Victor Bastos de Freitas. Modelos semi-paramétricos para dados independentes e longitudinais baseados em Misturas de Escala Normal Assimétrica Centralizada. 2022. UNICAMP. </li>
-      <li> Katherine Andreina Loor Valeriano. Inferência para dados espaço-temporais com respostas censuradas e faltantes. 2019. UNICAMP.</li>
-      <li> Marcela Nuñez Lemus. Estimação e diagnóstico em modelos parcialmente lineares censurados sob distribuições de cauda pesada. 2018. UNICAMP.</li>
+      <li> Letícia Bettine Infante. <em>An extension of the Inverse Gaussian regression model</em>. 2024. UNICAMP.</li>
+      <li> Vitor Macedo Rocha. <em>Influence diagnostics in parametric mixed-effects models for longitudinal data using skew-normal distribution</em>. 2024. UNICAMP.</li>
+      <li> Keyliane Travassos Almeida da Silva. <em>Diagnostic analysis in scale mixture of skew-normal linear mixed models</em>. 2023. UNICAMP. </li>
+      <li> Matheus Oliveira de Castro. <em>Robust Quantile Regression Models for Limited Responses Using Finite Mixtures</em>. 2023. UNICAMP. </li>
+      <li> Andreson Almeida Azevedo. <em>A distribuição Birnbaum-Saunders baseada na distribuição Laplace Assimétrica</em>. 2022.  UNICAMP. </li>
+      <li> Áurea Fonseca Lopes Galindo. <em>Modelos semi-paramétricos para dados independentes e longitudinais com resposta limitada</em>. 2022. UNICAMP.  </li>
+      <li> João Victor Bastos de Freitas. <em>Modelos semi-paramétricos para dados independentes e longitudinais baseados em Misturas de Escala Normal Assimétrica Centralizada</em>. 2022. UNICAMP. </li>
+      <li> Katherine Andreina Loor Valeriano. <em>Inferência para dados espaço-temporais com respostas censuradas e faltantes</em>. 2019. UNICAMP.</li>
+      <li> Marcela Nuñez Lemus. <em>Estimação e diagnóstico em modelos parcialmente lineares censurados sob distribuições de cauda pesada</em>. 2018. UNICAMP.</li>
     </ul>
     <li> Iniciação Científica </li>  
     <ul>    
-      <li> Nathan Brusamarello De Souto. Inferência para dados espaço-temporais com respostas censuradas e faltantes: Uma aplicação em dados meteorológicos. 2020. UNICAMP.</li>
-      <li> Paulo César de Oliveira Rodrigues. Influência que os professores da educação infantil e fundamental I que gostam ou não de matemática exercem sobre seus alunos. 2019. UNICAMP.</li>
+      <li> Nathan Brusamarello De Souto. <em>Inferência para dados espaço-temporais com respostas censuradas e faltantes: Uma aplicação em dados meteorológicos</em>. 2020. UNICAMP.</li>
+      <li> Paulo César de Oliveira Rodrigues. <em>Influência que os professores da educação infantil e fundamental I que gostam ou não de matemática exercem sobre seus alunos</em>. 2019. UNICAMP.</li>
     </ul>
   </ul>
 </details>

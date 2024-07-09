@@ -67,15 +67,33 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li> Amanda Merian Freitas Mendes </li>
-    <li> Áurea Fonseca Lopes Galindo </li>
-    <li> Carina Brunehilde Pinto da Silva </li>
-    <li> João Victor Bastos de Freitas </li>
-    <li> Katherine Andreina Loor Valeriano </li>
-    <li> Keyliane Travassos de Castro </li>
-    <li> Francisco Hildemar Calixto de Alencar </li>
-    <li> Matheus Oliveira de Castro </li>
-    <li> Robinson Ortega Meza </li>
+    <li> Amanda Merian Freitas Mendes <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> Áurea Fonseca Lopes Galindo <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> Carina Brunehilde Pinto da Silva <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> João Victor Bastos de Freitas <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> Katherine Andreina Loor Valeriano <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> Keyliane Travassos de Castro <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> Francisco Hildemar Calixto de Alencar <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> Matheus Oliveira de Castro <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
+    <li> Robinson Ortega Meza <a href="http://lattes.cnpq.br/2684306148446558">
+      <img src="/assets/img/lattes.png" alt="" width="19"/>
+    </a> </li>
   </ul>
 </details>
 

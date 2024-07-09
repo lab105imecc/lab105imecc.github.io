@@ -19,7 +19,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <img src="/assets/img/lattes.png" alt="" width="19"/>
 </a>
 <a href="https://scholar.google.com.br/citations?hl=en&user=lSCYxF0AAAAJ">
-  <img src="/assets/img/gscholar1.png" alt="" width="19"/>
+  <img src="/assets/img/gscholar1.png" alt="" width="21"/>
 </a>
 
 

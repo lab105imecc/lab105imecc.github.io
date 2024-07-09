@@ -41,7 +41,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li> Internacionais
+    <li> Internacionais</li>  
     <ul>
       <li> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM </li>
       <li> Prof. Dipak K. Dey, Department of Statistics, University of Connecticut - UCONN, USA </li>
@@ -52,7 +52,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
       <li> Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA </li>  
       <li> Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA </li>  
     </ul>
-    <li> Nacionais
+    <li> Nacionais</li>  
     <ul>    
       <li> Profa. Camila Borelli Zeller, Departamento de Estatística, Universidade Federal de Juiz de Fora - UFJF </li>
       <li> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Amazonas - UFAM </li>

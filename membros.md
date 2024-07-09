@@ -111,12 +111,18 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <ul>
     <li> Andreson Almeida Azevedo <a href="http://lattes.cnpq.br/8921663875534508">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/andreson-azevedo/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>  
     <li> Christian Eduardo Galarza Morales <a href="http://lattes.cnpq.br/1340975521059252">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/cgalarza88/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> David Esteban Sanchez Vega <a href="http://lattes.cnpq.br/8915785499314966">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/david-esteban-sánchez-vega-751b9b16b/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Fernanda Lang Schumacher <a href="http://lattes.cnpq.br/8132149083320545">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
@@ -125,6 +131,8 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </a> </li>
     <li> Jose Alejandro Ordoñez <a href="http://lattes.cnpq.br/7635604449274955">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/josé-alejandro-ordoñez-797771174/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Letícia Bettine Infante <a href="http://lattes.cnpq.br/7158806142046600">
       <img src="/assets/img/lattes.png" alt="" width="16"/>

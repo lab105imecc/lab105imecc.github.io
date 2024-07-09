@@ -69,12 +69,13 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <ul>
     <li> Amanda Merian Freitas Mendes </li>
     <li> Áurea Fonseca Lopes Galindo </li>
-    <li> Carina Brunehilde Pinto da Silva</li>
+    <li> Carina Brunehilde Pinto da Silva </li>
     <li> João Victor Bastos de Freitas </li>
-    <li> Katherine Andreina Loor Valeriano</li>
-    <li> Keyliane Travassos de Castro</li>
-    <li> Francisco Hildemar Calixto de Alencar</li>
-    <li> Matheus Oliveira de Castro</li>
+    <li> Katherine Andreina Loor Valeriano </li>
+    <li> Keyliane Travassos de Castro </li>
+    <li> Francisco Hildemar Calixto de Alencar </li>
+    <li> Matheus Oliveira de Castro </li>
+    <li> Robinson Ortega Meza </li>
   </ul>
 </details>
 
@@ -82,6 +83,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
+    <li> Andreson Almeida Azevedo </li>  
     <li> Christian Eduardo Galarza Morales</li>
     <li> David Esteban Sanchez Vega</li>
     <li> Jose Alejandro Ordoñez</li>

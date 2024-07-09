@@ -112,23 +112,29 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </a> </li>
     <li> Fernanda Lang Schumacher <a href="http://lattes.cnpq.br/8132149083320545">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/fernanda-lang-schumacher-18123775/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
     </a> </li>
     <li> Jose Alejandro Ordoñez <a href="http://lattes.cnpq.br/7635604449274955">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
     <li> Letícia Bettine Infante <a href="http://lattes.cnpq.br/7158806142046600">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
     </a> </li>
     <li> Marcela Nuñez Lemus <a href="http://lattes.cnpq.br/5012340622923104">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
     <li> Thalita do Bem Mattos <a href="http://lattes.cnpq.br/9500569794852267">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
-    </a>  <a href="http://lattes.cnpq.br/9500569794852267">
+    </a>  <a href="https://www.linkedin.com/in/thalitadobem/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
     </a> </li>
     <li> Vitor Macedo Rocha <a href="http://lattes.cnpq.br/7749317090142178">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/vitor-macedo-rocha-9bb50818a/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
     </a> </li>
   </ul>
 </details>

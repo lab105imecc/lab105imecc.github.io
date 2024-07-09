@@ -120,8 +120,8 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </a> </li>
     <li> Letícia Bettine Infante <a href="http://lattes.cnpq.br/7158806142046600">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
-    </a> <a href="">
-      <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/leticia-bettini-infante-a026a6190/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Marcela Nuñez Lemus <a href="http://lattes.cnpq.br/5012340622923104">
       <img src="/assets/img/lattes.png" alt="" width="16"/>

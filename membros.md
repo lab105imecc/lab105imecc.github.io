@@ -41,13 +41,25 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li> Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA </li>
-    <li> Prof. Mauricio Castro Cepero, Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile </li>
-    <li> Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA </li>
-    <li> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Amazonas - UFAM </li>
-    <li> Prof. Marcos Oliveira Prates, Departamento de Estatística, Universidade Federal de Minas Gerais - UFMG </li>
-    <li> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM </li>
-    <li> Profa. Fernanda Lang Schumacher: The Ohio State University, Columbus, Ohio/EUA </li>
+    <li> Internacionais
+    <ul>
+      <li> Prof. Christian Eduardo Galarza Morales, ESPOL Polytechnic University - Escuela Superior Politécnica del Litoral, ESPOL - Facultad de Ciencias Naturales y Matemáticas, FCNM </li>
+      <li> Prof. Dipak K. Dey, Department of Statistics, University of Connecticut - UCONN, USA </li>
+      <li> Profa. Fernanda Lang Schumacher, College of Public Health - Division of Biostatistics, The Ohio State University, Columbus, Ohio/EUA </li>
+      <li> Prof. Manuel Galea,  Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile</li>
+      <li> Prof. Mauricio Castro Cepero, Departamento de Estadística, Pontificia Universidad Católica de Chile, Santiago, Chile </li>
+      <li> Prof. Narayanaswamy Balakrishnan, Department of Mathematics and Statistics, McMaster University, Canada. </li>
+      <li> Prof. Ming-Hui Chen, Department of Statistics, University of Connecticut - UCONN, USA </li>  
+      <li> Prof. Víctor Hugo Lachos Dávila, Department of Statistics, University of Connecticut - UCONN, USA </li>  
+    </ul>
+    <li> Nacionais
+    <ul>    
+      <li> Profa. Camila Borelli Zeller, Departamento de Estatística, Universidade Federal de Juiz de Fora - UFJF </li>
+      <li> Prof. Celso Rômulo Barbosa Cabral, Departamento de Estatística, Universidade Federal do Amazonas - UFAM </li>
+      <li> Prof. Jorge Luis G. Bazán, Departamento de Matemática Aplicada e Estatística, Universidade de São Paulo - ICMC/USP </li>
+      <li> Prof. Juvêncio S. Nobre, Departamento de Estatística e Matemática Aplicada, Universidade Federal do Ceara - UFC </li>
+      <li> Prof. Marcos Oliveira Prates, Departamento de Estatística, Universidade Federal de Minas Gerais - UFMG </li>
+    </ul>
   </ul>
 </details>
 

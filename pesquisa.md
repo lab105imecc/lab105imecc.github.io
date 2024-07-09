@@ -32,19 +32,19 @@ Os membros do nosso laboratório têm recebido prêmios e reconhecimentos por su
 
 <details>
   <summary>Clique para expandir</summary>
+  <ul>
+    <li> O trabalho *On moments of folded and truncated multivariate extended skew-normal distributions* do aluno **Christian E. Galarza** recebeu o prêmio Best LACSC 2019 Paper Award no 4th Latin American Conference for Statistical Computing. </li>
 
-   - O trabalho *On moments of folded and truncated multivariate extended skew-normal distributions* do aluno **Christian E. Galarza** recebeu o prêmio Best LACSC 2019 Paper Award no 4th Latin American Conference for Statistical Computing.
+    <li> O trabalho *Truncated moments of selection elliptical distributions with applications in robust modelling of HIV longitudinal censored data* do aluno **Christian E. Galarza** recebeu o prêmio ISI-IBS Young Ambassadors na International Biometrics Conference (IBC 2020).</li>
 
-   - O trabalho *Truncated moments of selection elliptical distributions with applications in robust modelling of HIV longitudinal censored data* do aluno **Christian E. Galarza** recebeu o prêmio ISI-IBS Young Ambassadors na International Biometrics Conference (IBC 2020).
+    <li> O trabalho *Objective Bayesian analysis for the spatial Student-t regression model* do aluno **José Alejandro Ordoñez** ganhou o prêmio do melhor pôster no XV Brazilian Meeting of Bayesian Statistics.</li>
 
-   - O trabalho *Objective Bayesian analysis for the spatial Student-t regression model* do aluno **José Alejandro Ordoñez** ganhou o prêmio do melhor pôster no XV Brazilian Meeting of Bayesian Statistics.
+    <li> A dissertação de mestrado da aluna **Katherine Andreina Loor Valeriano** ganhou menção honrosa no Concurso de Dissertação de Mestrado do Simpósio Nacional de Probabilidade e Estatística.</li>
 
-   - A dissertação de mestrado da aluna **Katherine Andreina Loor Valeriano** ganhou menção honrosa no Concurso de Dissertação de Mestrado do Simpósio Nacional de Probabilidade e Estatística.
+    <li> O trabalho *Canonical fundamental skew-t linear mixed models* da aluna **Fernanda Lang Schumacher** foi um dos vencedores do prêmio Student competition in association with the Conference in Honour of Fred Smith & Chris Skinner.</li>
 
-   - O trabalho *Canonical fundamental skew-t linear mixed models* da aluna **Fernanda Lang Schumacher** foi um dos vencedores do prêmio Student competition in association with the Conference in Honour of Fred Smith & Chris Skinner.
-
-   -
-
+    <li> A dissertação de mestrado da aluna **Áurea Fonseca Lopes Galindo** ganhou segundo lugar no Concurso de Melhor Dissertação de Mestrado do 24o Simpósio Nacional de Probabilidade e Estatística. </li>
+  </ul>
 </br>
 </details>
 

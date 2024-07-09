@@ -11,19 +11,27 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 
 ## Pesquisadores
 
-- [Larissa Avila Matos](https://larissamatos.github.io/)
+- Larissa Avila Matos &nbsp;&nbsp;
 <a href="https://larissamatos.github.io/">
-  <img src="/assets/img/website.png" alt="" width="20"/>
-</a>
+  <img src="/assets/img/website.png" alt="" width="24"/>
+</a> &nbsp;&nbsp;
 <a href="http://lattes.cnpq.br/6330766834005870">
-  <img src="/assets/img/lattes.png" alt="" width="20"/>
+  <img src="/assets/img/lattes.png" alt="" width="19"/>
 </a>
 
 - Filidor E. Labra
-    [CV Lattes](http://lattes.cnpq.br/2684306148446558)
+<a href="http://lattes.cnpq.br/2684306148446558">
+  <img src="/assets/img/lattes.png" alt="" width="20"/>
+</a>
 
-- [Caio L. N. Azevedo](https://www.ime.unicamp.br/~cnaber/)
-    [CV Lattes](http://lattes.cnpq.br/0856524274837137)
+- Caio L. N. Azevedo
+<a href="https://www.ime.unicamp.br/~cnaber/">
+  <img src="/assets/img/website.png" alt="" width="20"/>
+</a>
+<a href="http://lattes.cnpq.br/0856524274837137">
+  <img src="/assets/img/lattes.png" alt="" width="20"/>
+</a>
+
 
 ## Colaboradores
 <details>

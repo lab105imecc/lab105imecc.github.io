@@ -32,7 +32,20 @@ Os membros do nosso laboratório têm recebido prêmios e reconhecimentos por su
 
 <details>
   <summary>Clique para expandir</summary>
--
+
+   - O trabalho *On moments of folded and truncated multivariate extended skew-normal distributions* do aluno **Christian E. Galarza** recebeu o prêmio Best LACSC 2019 Paper Award no 4th Latin American Conference for Statistical Computing.
+
+   - O trabalho *Truncated moments of selection elliptical distributions with applications in robust modelling of HIV longitudinal censored data* do aluno **Christian E. Galarza** recebeu o prêmio ISI-IBS Young Ambassadors na International Biometrics Conference (IBC 2020).
+
+   - O trabalho *Objective Bayesian analysis for the spatial Student-t regression model* do aluno **José Alejandro Ordoñez** ganhou o prêmio do melhor pôster no XV Brazilian Meeting of Bayesian Statistics.
+
+   - A dissertação de mestrado da aluna **Katherine Andreina Loor Valeriano** ganhou menção honrosa no Concurso de Dissertação de Mestrado do Simpósio Nacional de Probabilidade e Estatística.
+
+   - O trabalho *Canonical fundamental skew-t linear mixed models* da aluna **Fernanda Lang Schumacher** foi um dos vencedores do prêmio Student competition in association with the Conference in Honour of Fred Smith & Chris Skinner.
+
+   -
+
+</br>
 </details>
 
 

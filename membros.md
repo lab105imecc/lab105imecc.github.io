@@ -69,9 +69,13 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <ul>
     <li> Amanda Merian Freitas Mendes <a href="http://lattes.cnpq.br/6054083310993609">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/amanda-merian-freitas-mendes-72508b284/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Áurea Fonseca Lopes Galindo <a href="http://lattes.cnpq.br/7667588501852147">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/áurea-fonseca-244a791ab/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Carina Brunehilde Pinto da Silva <a href="http://lattes.cnpq.br/9278324365724459">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
@@ -84,6 +88,8 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </a> </li>
     <li> Keyliane Travassos de Castro <a href="http://lattes.cnpq.br/3118772117815080">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/keyliane-travassos-588114a0/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Francisco Hildemar Calixto de Alencar <a href="http://lattes.cnpq.br/0442780507213647">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
@@ -93,6 +99,8 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </a> </li>
     <li> Robinson Ortega Meza <a href="http://lattes.cnpq.br/9282485143409166">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/robinson-ortega-meza-0a481587/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
   </ul>
 </details>
@@ -113,7 +121,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     <li> Fernanda Lang Schumacher <a href="http://lattes.cnpq.br/8132149083320545">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/fernanda-lang-schumacher-18123775/">
-      <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Jose Alejandro Ordoñez <a href="http://lattes.cnpq.br/7635604449274955">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
@@ -129,12 +137,12 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     <li> Thalita do Bem Mattos <a href="http://lattes.cnpq.br/9500569794852267">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a>  <a href="https://www.linkedin.com/in/thalitadobem/">
-      <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Vitor Macedo Rocha <a href="http://lattes.cnpq.br/7749317090142178">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/vitor-macedo-rocha-9bb50818a/">
-      <img src="/assets/img/linkedin.jpeg" alt="" width="16"/>
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
   </ul>
 </details>

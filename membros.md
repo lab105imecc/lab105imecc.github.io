@@ -67,31 +67,31 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li> Amanda Merian Freitas Mendes <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Amanda Merian Freitas Mendes <a href="http://lattes.cnpq.br/6054083310993609">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> Áurea Fonseca Lopes Galindo <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Áurea Fonseca Lopes Galindo <a href="http://lattes.cnpq.br/7667588501852147">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> Carina Brunehilde Pinto da Silva <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Carina Brunehilde Pinto da Silva <a href="http://lattes.cnpq.br/9278324365724459">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> João Victor Bastos de Freitas <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> João Victor Bastos de Freitas <a href="http://lattes.cnpq.br/9670482171354483">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> Katherine Andreina Loor Valeriano <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Katherine Andreina Loor Valeriano <a href="http://lattes.cnpq.br/8992394367424165">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> Keyliane Travassos de Castro <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Keyliane Travassos de Castro <a href="http://lattes.cnpq.br/3118772117815080">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> Francisco Hildemar Calixto de Alencar <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Francisco Hildemar Calixto de Alencar <a href="http://lattes.cnpq.br/0442780507213647">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> Matheus Oliveira de Castro <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Matheus Oliveira de Castro <a href="http://lattes.cnpq.br/8557175057873217">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
-    <li> Robinson Ortega Meza <a href="http://lattes.cnpq.br/2684306148446558">
+    <li> Robinson Ortega Meza <a href="http://lattes.cnpq.br/9282485143409166">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
   </ul>

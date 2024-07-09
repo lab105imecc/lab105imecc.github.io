@@ -13,7 +13,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 
 - Larissa Avila Matos &nbsp;
 <a href="https://larissamatos.github.io/">
-  <img src="/assets/img/website.png" alt="" width="24"/>
+  <img src="/assets/img/website.png" alt="" width="23"/>
 </a>
 <a href="http://lattes.cnpq.br/6330766834005870">
   <img src="/assets/img/lattes.png" alt="" width="19"/>
@@ -21,12 +21,12 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 
 - Filidor E. Labra &nbsp;
 <a href="http://lattes.cnpq.br/2684306148446558">
-  <img src="/assets/img/lattes.png" alt="" width="24"/>
+  <img src="/assets/img/lattes.png" alt="" width="19"/>
 </a>
 
 - Caio L. N. Azevedo &nbsp;
 <a href="https://www.ime.unicamp.br/~cnaber/">
-  <img src="/assets/img/website.png" alt="" width="24"/>
+  <img src="/assets/img/website.png" alt="" width="23"/>
 </a>
 <a href="http://lattes.cnpq.br/0856524274837137">
   <img src="/assets/img/lattes.png" alt="" width="19"/>

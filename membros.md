@@ -18,6 +18,10 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <a href="http://lattes.cnpq.br/6330766834005870">
   <img src="/assets/img/lattes.png" alt="" width="19"/>
 </a>
+<a href="https://scholar.google.com.br/citations?hl=en&user=lSCYxF0AAAAJ">
+  <img src="/assets/img/gscholar1.png" alt="" width="19"/>
+</a>
+
 
 - Filidor E. Labra &nbsp;
 <a href="http://lattes.cnpq.br/2684306148446558">

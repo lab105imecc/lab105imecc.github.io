@@ -8,7 +8,7 @@ title: Fotos
     <img src="/assets/img/Lab_foto8.png" alt=" " style="max-width: 125%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <img src="/assets/img/Lab_foto4.png" alt=" " style="max-width: 125%; height: auto;">
+    <img src="/assets/img/Lab_foto3.png" alt=" " style="max-width: 125%; height: auto;">
   </div>
 </div>
 

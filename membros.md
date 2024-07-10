@@ -97,6 +97,9 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     <li> Matheus Oliveira de Castro <a href="http://lattes.cnpq.br/8557175057873217">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
+    <a href="https://www.linkedin.com/in/matheus-castro-78a15594/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
+    </a> </li>
     <li> Robinson Ortega Meza <a href="http://lattes.cnpq.br/9282485143409166">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/robinson-ortega-meza-0a481587/">

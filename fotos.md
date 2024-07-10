@@ -3,18 +3,20 @@ layout: page
 title: Fotos
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1; min-width: 150px;">
-    ![L105](/assets/img/Lab_foto8.png)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 2;">
+    <img src="/assets/img/Lab_foto8.png" alt=" " style="max-width: 125%; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 150px;">
-    ![Laboratório](/assets/img/Lab_foto3.png)
+  <div style="flex: 1;">
+    <img src="/assets/img/Lab_foto4.png" alt=" " style="max-width: 125%; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 150px;">
-    ![Membros](/assets/img/Lab_foto4.png)
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 2;">
+    <img src="/assets/img/Lab_foto4.png" alt=" " style="max-width: 125%; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 150px;">
-    ![Membros](/assets/img/Lab_foto5.png)
+  <div style="flex: 1;">
+    <img src="/assets/img/Lab_foto5.png" alt=" " style="max-width: 125%; height: auto;">
   </div>
-  <!-- Adicione mais fotos conforme necessário -->
 </div>

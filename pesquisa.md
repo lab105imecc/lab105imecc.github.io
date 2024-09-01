@@ -59,6 +59,8 @@ Nossos alunos de mestrado e doutorado desenvolvem dissertações e teses que con
   <ul>
     <li> Doutorado </li>  
     <ul>    
+      <li> Amanda Merian Freitas Mendes. <emModelos de regressão quantílica paramétricos Bayesianos generalizados</em>. 2024. UNICAMP. </li>
+      <li> Katherine Andreina Loor Valeriano. <emInferência para modelos com respostas censurados usando a distribuição Student-t e skew-t</em>. 2024. UNICAMP. </li>
       <li> Fernanda Lang Schumacher. <em>Robust linear mixed models for longitudinal data using skewed and heavy-tailed distributions</em>. 2021. UNICAMP. </li>
       <li> Jose Alejandro Ordoñez. <em>On Default Priors for Regression Analysis</em>. 2021. UNICAMP. </li>
       <li> Christian Eduardo Galarza Morales. <em>On Moments of doubly truncated multivariate distributions</em>. 2020. UNICAMP. </li>

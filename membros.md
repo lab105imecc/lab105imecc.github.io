@@ -22,9 +22,8 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <img src="/assets/img/gscholar1.png" alt="" width="21"/>
 </a>
 
-
-- Filidor E. Labra &nbsp;
-<a href="http://lattes.cnpq.br/2684306148446558">
+- Alex Rodrigo dos Santos Sousa &nbsp;
+<a href="http://lattes.cnpq.br/6521094728394053">
   <img src="/assets/img/lattes.png" alt="" width="19"/>
 </a>
 
@@ -33,6 +32,16 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <img src="/assets/img/website.png" alt="" width="23"/>
 </a>
 <a href="http://lattes.cnpq.br/0856524274837137">
+  <img src="/assets/img/lattes.png" alt="" width="19"/>
+</a>
+
+- Filidor E. Labra &nbsp;
+<a href="http://lattes.cnpq.br/2684306148446558">
+  <img src="/assets/img/lattes.png" alt="" width="19"/>
+</a>
+
+- Victor Freguglia Souza &nbsp;
+<a href="http://lattes.cnpq.br/6306080581906246">
   <img src="/assets/img/lattes.png" alt="" width="19"/>
 </a>
 

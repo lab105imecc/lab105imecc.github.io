@@ -76,11 +76,6 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
-    <li> Amanda Merian Freitas Mendes <a href="http://lattes.cnpq.br/6054083310993609">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
-    </a> <a href="https://www.linkedin.com/in/amanda-merian-freitas-mendes-72508b284/">
-      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
-    </a> </li>
     <li> Áurea Fonseca Lopes Galindo <a href="http://lattes.cnpq.br/7667588501852147">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/áurea-fonseca-244a791ab/">
@@ -90,9 +85,6 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
     <li> João Victor Bastos de Freitas <a href="http://lattes.cnpq.br/9670482171354483">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
-    </a> </li>
-    <li> Katherine Andreina Loor Valeriano <a href="http://lattes.cnpq.br/8992394367424165">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> </li>
     <li> Keyliane Travassos de Castro <a href="http://lattes.cnpq.br/3118772117815080">
@@ -120,6 +112,11 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 <details>
   <summary>Clique para expandir</summary>
   <ul>
+    <li> Amanda Merian Freitas Mendes <a href="http://lattes.cnpq.br/6054083310993609">
+      <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> <a href="https://www.linkedin.com/in/amanda-merian-freitas-mendes-72508b284/">
+      <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
+    </a> </li>
     <li> Andreson Almeida Azevedo <a href="http://lattes.cnpq.br/8921663875534508">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/andreson-azevedo/">
@@ -145,6 +142,9 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </a> <a href="https://www.linkedin.com/in/josé-alejandro-ordoñez-797771174/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
+    <li> Katherine Andreina Loor Valeriano <a href="http://lattes.cnpq.br/8992394367424165">
+      <img src="/assets/img/lattes.png" alt="" width="16"/>
+    </a> </li>  
     <li> Letícia Bettine Infante <a href="http://lattes.cnpq.br/7158806142046600">
       <img src="/assets/img/lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/leticia-bettini-infante-a026a6190/">

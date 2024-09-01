@@ -24,7 +24,7 @@ navbar-links:
 #     - Linha de pesquisa: "lmr"
   Membros: "membros"
   Pesquisa: "pesquisa"
-  Fotos: "fotos"
+  Fotos: "galeria_fotos"
 
 ################
 # --- Logo --- #

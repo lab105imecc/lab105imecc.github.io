@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<style>
 .featured_projects .text-blk {
   padding-top: 10px;
   padding-right: 10px;
@@ -340,6 +341,7 @@ layout: page
     line-height: 27.28px;
   }
 }
+</style>
 
 <div class="featured_projects" unique-script-id="w-w-dm-id">
   <div class="container-block bg">

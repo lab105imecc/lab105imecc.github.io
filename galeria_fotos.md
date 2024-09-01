@@ -113,7 +113,7 @@ clear: both;
 
 <div class="row">
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_lab_foto1.png" alt="Lab105" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_lab_foto1.png" alt="Lab105" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -121,7 +121,7 @@ clear: both;
 </div>
 </div>
 <div class="column-f2c">
-<img id="myImg" class="imageClass" src="/assets/img/img_lab_foto2.png" style="width:100%;max-width:300px">
+<img id="myImg" class="imageClass" src="/assets/img/img_lab_foto2.png" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img02">
@@ -138,7 +138,7 @@ clear: both;
 
 <div class="row">
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto1.png" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto1.png" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -146,7 +146,7 @@ clear: both;
 </div>
 </div>
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto2.png" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto2.png" style="width:90%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img02">
@@ -154,7 +154,7 @@ clear: both;
 </div>
 </div>
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto3.png" style="width:75%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto3.png" style="width:55%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -167,7 +167,7 @@ clear: both;
 
 <div class="row">
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto4.png" alt="Mesa Redonda" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto4.png" alt="Mesa Redonda" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -175,7 +175,7 @@ clear: both;
 </div>
 </div>
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto5.png" alt="Mesa Redonda" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto5.png" alt="Mesa Redonda" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -183,7 +183,7 @@ clear: both;
 </div>
 </div>
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto6.png" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto6.png" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -200,31 +200,28 @@ clear: both;
 
 <div class="row">
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto1.png" alt="SINAPE" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto1.png" alt="SINAPE" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> SINAPE </p></figcaption>
 </div>
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto2.png" alt="SINAPE" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto2.png" alt="SINAPE" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> SINAPE </p></figcaption>
 </div>
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto3.png" alt="SINAPE" style="width:100%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto3.png" alt="SINAPE" style="width:95%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> SINAPE </p></figcaption>
 </div>
 </div>
 

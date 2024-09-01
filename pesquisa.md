@@ -6,10 +6,13 @@ subtitle: Nossas Pesquisas e Conquistas
 
 No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir para o avanço do conhecimento em análise de dados e modelagem estatística. Nossa equipe trabalha em diversos projetos, que abrangem uma ampla gama de áreas e aplicações.
 
+----
 
 ## Publicações  <i class="fa-solid fa-file-lines"></i>
 
 Publicamos regularmente em revistas científicas de renome, compartilhando nossos resultados e descobertas com a comunidade acadêmica. Nossas publicações abrangem uma variedade de tópicos e refletem a diversidade e profundidade das nossas pesquisas.
+
+----
 
 ## Projetos <i class="fa-solid fa-diagram-project"></i>
 
@@ -24,6 +27,8 @@ Além dos projetos individuais, estamos engajados em colaborações com outras i
     <em> Descrição: </em> Modelos de regressão paramétrica e semi-paramétrica representam duas grandes áreas no contexto de modelagem, que têm encontrado aplicações em diferentes áreas. O objetivo deste projeto é considerar modelos de regressão na presença de efeitos aleatórios, que seguem distribuições na família das distribuições escala mistura skew-normal (Branco e Dey, 2001), que são usados efetivamente em estimação robusta na presença de observações extremas. Os principais modelos de regressão que serão considerados são: i) modelo linear misto, ii) modelo com error nas variáveis e iii) modelo de regressão da Teoria de Resposta ao Item (TRI). Para os dois primeiros modelos de regressão são considerados estudos de estimação e análise de diagnóstico, considerando estruturas paramétricas e semi-paramétricas (com resposta censurada). A regressão semi-paramétrica refere-se à incorporação flexível de relações funcionais não-lineares em análise de regressão. Por outro lado, no modelos de regressão da TRI, usado mais frequente em avaliações de traços latentes testes psicométricos, os modelos propostos são baseado em distribuição assimétricas centradas. Estimação são estudados sob um ponto de vista frequentista e Bayesiana. Os objetivos específicos são descritos com mais detalhes no corpo do projeto. </li>
     </ul>
 </details>
+
+----
 
 ## Prêmios <i class="fa-solid fa-trophy" style='font-size:20px'></i>
 
@@ -48,6 +53,7 @@ Os membros do nosso laboratório têm recebido prêmios e reconhecimentos por su
 </ul>
 </details>
 
+----
 
 ## Dissertações/Teses <i class="fa-solid fa-book" style='font-size:20px'></i>
 

@@ -8,6 +8,7 @@ Estamos animados para apresentar os membros do Laboratório de Modelo de Regress
 
 A seguir, você encontrará informações sobre nossos pesquisadores, os alunos que desenvolvem projetos sob nossa orientação e os colaboradores que nos ajudam com sua expertise. Juntos, trabalhamos para explorar novas fronteiras na análise de dados e modelagem estatística.
 
+----
 
 ## Pesquisadores
 
@@ -45,6 +46,7 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <img src="/assets/img/icon_lattes.png" alt="" width="19"/>
 </a>
 
+----
 
 ## Colaboradores
 <details>
@@ -71,6 +73,8 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </ul>
   </ul>
 </details>
+
+----
 
 ## Alunos
 <details>
@@ -107,6 +111,8 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
     </a> </li>
   </ul>
 </details>
+
+----
 
 ## Ex-Alunos
 <details>

@@ -43,9 +43,8 @@ Os membros do nosso laboratório têm recebido prêmios e reconhecimentos por su
     <li> O trabalho <em>Canonical fundamental skew-t linear mixed models</em> da aluna <strong>Fernanda Lang Schumacher</strong> foi um dos vencedores do prêmio Student competition in association with the Conference in Honour of Fred Smith & Chris Skinner.</li>
 
     <li> A dissertação de mestrado da aluna <strong>Áurea Fonseca Lopes Galindo</strong> ganhou segundo lugar no Concurso de Melhor Dissertação de Mestrado do 24o Simpósio Nacional de Probabilidade e Estatística. </li>
-  </ul>
 
-  <li> A dissertação de mestrado do aluno <strong>Matheus Oliveira de Castro</strong> ganhou segundo lugar no Concurso de Melhor Dissertação de Mestrado do 25o Simpósio Nacional de Probabilidade e Estatística. </li>
+    <li> A dissertação de mestrado do aluno <strong>Matheus Oliveira de Castro</strong> ganhou segundo lugar no Concurso de Melhor Dissertação de Mestrado do 25o Simpósio Nacional de Probabilidade e Estatística. </li>
 </ul>
 </details>
 

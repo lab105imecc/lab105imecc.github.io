@@ -20,8 +20,8 @@ author: Larissa A. Matos
 ###############################################
 
 navbar-links:
-  O Laboratório:
-    - Linha de pesquisa: "lmr"
+  O Laboratório: "lmr"
+#     - Linha de pesquisa: "lmr"
   Membros: "membros"
   Pesquisa: "pesquisa"
   Fotos: "galeria_fotos"

@@ -109,8 +109,7 @@ clear: both;
 
 ----
 
-#### O Laboratório
-<p class="ptitle"> \ </p>
+## O Laboratório
 
 <div class="row">
 <div class="column-f2c">
@@ -120,10 +119,9 @@ clear: both;
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> Lab 105 </p></figcaption>
 </div>
 <div class="column-f2c">
-<img id="myImg" class="imageClass" src="/assets/img/img_lab_foto1.png" alt="O Laboratório" style="width:71%;max-width:300px">
+<img id="myImg" class="imageClass" src="/assets/img/img_lab_foto2.png" alt="O Laboratório" style="width:71%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img02">
@@ -133,10 +131,11 @@ clear: both;
 </div>
 </div>
 
+<br>
+
 ----
 
-#### I  Encontro do Laboratório de Regressão
-<p class="ptitle"> \ </p>
+## I  Encontro do Laboratório de Regressão
 
 <div class="row">
 <div class="column-f2c">
@@ -147,7 +146,6 @@ style="width:93%;max-width:300px">
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> I Encontro do Laboratório de Regressão </p></figcaption>
 </div>
 <div class="column-f2c">
 <img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto2.png" alt="I Encontro do Laboratório de Regressão" style="width:93%;max-width:300px">
@@ -156,7 +154,6 @@ style="width:93%;max-width:300px">
   <img class="modal-content" id="img02">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3">  I Encontro do Laboratório de Regressão  </p></figcaption>
 </div>
 <div class="column-f2c">
 <img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto3.png" alt="I Encontro do Laboratório de Regressão" style="width:93%;max-width:300px">
@@ -165,11 +162,8 @@ style="width:93%;max-width:300px">
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> I Encontro do Laboratório de Regressão </p></figcaption>
 </div>
 </div>
-
-</br>
 
 <div class="row">
 <div class="column-f2c">
@@ -179,7 +173,6 @@ style="width:93%;max-width:300px">
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> Mesa Redonda </p></figcaption>
 </div>
 <div class="column-f2c">
 <img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto5.png" alt="Mesa Redonda" style="width:93%;max-width:300px">
@@ -188,7 +181,6 @@ style="width:93%;max-width:300px">
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> Mesa Redonda </p></figcaption>
 </div>
 <div class="column-f2c">
 <img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto6.png" alt="Mesa Redonda" style="width:88%;max-width:300px">
@@ -197,27 +189,16 @@ style="width:93%;max-width:300px">
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
-<figcaption> <p class="cc3"> Mesa Redonda </p></figcaption>
 </div>
 </div>
 
-</br>
+<br>
 
 ----
 
-#### 25º Simpósio Nacional de Probabilidade e Estatística (SINAPE)
-<p class="ptitle"> \ </p>
+## 25º Simpósio Nacional de Probabilidade e Estatística (SINAPE)
 
 <div class="row">
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto1.png" alt="SINAPE" style="width:89%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-<figcaption> <p class="cc3"> SINAPE </p></figcaption>
-</div>
 <div class="column-f2c">
 <img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto1.png" alt="SINAPE" style="width:99%;max-width:300px">
 <div id="myModal" class="modal">
@@ -228,7 +209,16 @@ style="width:93%;max-width:300px">
 <figcaption> <p class="cc3"> SINAPE </p></figcaption>
 </div>
 <div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto1.png" alt="SINAPE" style="width:90%;max-width:300px">
+<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto2.png" alt="SINAPE" style="width:99%;max-width:300px">
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
+<figcaption> <p class="cc3"> SINAPE </p></figcaption>
+</div>
+<div class="column-f2c">
+<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto5.png" alt="SINAPE" style="width:99%;max-width:300px">
 <div id="myModal" class="modal">
   <span class="close">&times;</span>
   <img class="modal-content" id="img01">
@@ -237,8 +227,6 @@ style="width:93%;max-width:300px">
 <figcaption> <p class="cc3"> SINAPE </p></figcaption>
 </div>
 </div>
-
-</br>
 
 
 <script>

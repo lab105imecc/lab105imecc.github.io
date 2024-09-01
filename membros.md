@@ -13,36 +13,36 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
 
 - Larissa Avila Matos &nbsp;
 <a href="https://larissamatos.github.io/">
-  <img src="/assets/img/website.png" alt="" width="23"/>
+  <img src="/assets/img/icon_website.png" alt="" width="23"/>
 </a>
 <a href="http://lattes.cnpq.br/6330766834005870">
-  <img src="/assets/img/lattes.png" alt="" width="19"/>
+  <img src="/assets/img/icon_lattes.png" alt="" width="19"/>
 </a>
 <a href="https://scholar.google.com.br/citations?hl=en&user=lSCYxF0AAAAJ">
-  <img src="/assets/img/gscholar1.png" alt="" width="21"/>
+  <img src="/assets/img/icon_gscholar.png" alt="" width="21"/>
 </a>
 
 - Alex Rodrigo dos Santos Sousa &nbsp;
 <a href="http://lattes.cnpq.br/6521094728394053">
-  <img src="/assets/img/lattes.png" alt="" width="19"/>
+  <img src="/assets/img/icon_lattes.png" alt="" width="19"/>
 </a>
 
 - Caio L. N. Azevedo &nbsp;
 <a href="https://www.ime.unicamp.br/~cnaber/">
-  <img src="/assets/img/website.png" alt="" width="23"/>
+  <img src="/assets/img/icon_website.png" alt="" width="23"/>
 </a>
 <a href="http://lattes.cnpq.br/0856524274837137">
-  <img src="/assets/img/lattes.png" alt="" width="19"/>
+  <img src="/assets/img/icon_lattes.png" alt="" width="19"/>
 </a>
 
 - Filidor E. Labra &nbsp;
 <a href="http://lattes.cnpq.br/2684306148446558">
-  <img src="/assets/img/lattes.png" alt="" width="19"/>
+  <img src="/assets/img/icon_lattes.png" alt="" width="19"/>
 </a>
 
 - Victor Freguglia Souza &nbsp;
 <a href="http://lattes.cnpq.br/6306080581906246">
-  <img src="/assets/img/lattes.png" alt="" width="19"/>
+  <img src="/assets/img/icon_lattes.png" alt="" width="19"/>
 </a>
 
 
@@ -77,31 +77,31 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <summary>Clique para expandir</summary>
   <ul>
     <li> Áurea Fonseca Lopes Galindo <a href="http://lattes.cnpq.br/7667588501852147">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/áurea-fonseca-244a791ab/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Carina Brunehilde Pinto da Silva <a href="http://lattes.cnpq.br/9278324365724459">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> </li>
     <li> João Victor Bastos de Freitas <a href="http://lattes.cnpq.br/9670482171354483">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> </li>
     <li> Keyliane Travassos de Castro <a href="http://lattes.cnpq.br/3118772117815080">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/keyliane-travassos-588114a0/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Francisco Hildemar Calixto de Alencar <a href="http://lattes.cnpq.br/0442780507213647">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> </li>
     <li> Matheus Oliveira de Castro <a href="http://lattes.cnpq.br/8557175057873217">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/matheus-castro-78a15594/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Robinson Ortega Meza <a href="http://lattes.cnpq.br/9282485143409166">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/robinson-ortega-meza-0a481587/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
@@ -113,53 +113,53 @@ A seguir, você encontrará informações sobre nossos pesquisadores, os alunos 
   <summary>Clique para expandir</summary>
   <ul>
     <li> Amanda Merian Freitas Mendes <a href="http://lattes.cnpq.br/6054083310993609">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/amanda-merian-freitas-mendes-72508b284/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Andreson Almeida Azevedo <a href="http://lattes.cnpq.br/8921663875534508">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/andreson-azevedo/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>  
     <li> Christian Eduardo Galarza Morales <a href="http://lattes.cnpq.br/1340975521059252">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/cgalarza88/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> David Esteban Sanchez Vega <a href="http://lattes.cnpq.br/8915785499314966">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/david-esteban-sánchez-vega-751b9b16b/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Fernanda Lang Schumacher <a href="http://lattes.cnpq.br/8132149083320545">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/fernanda-lang-schumacher-18123775/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Jose Alejandro Ordoñez <a href="http://lattes.cnpq.br/7635604449274955">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/josé-alejandro-ordoñez-797771174/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Katherine Andreina Loor Valeriano <a href="http://lattes.cnpq.br/8992394367424165">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> </li>  
     <li> Letícia Bettine Infante <a href="http://lattes.cnpq.br/7158806142046600">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/leticia-bettini-infante-a026a6190/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Marcela Nuñez Lemus <a href="http://lattes.cnpq.br/5012340622923104">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> </li>
     <li> Thalita do Bem Mattos <a href="http://lattes.cnpq.br/9500569794852267">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a>  <a href="https://www.linkedin.com/in/thalitadobem/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>
     <li> Vitor Macedo Rocha <a href="http://lattes.cnpq.br/7749317090142178">
-      <img src="/assets/img/lattes.png" alt="" width="16"/>
+      <img src="/assets/img/icon_lattes.png" alt="" width="16"/>
     </a> <a href="https://www.linkedin.com/in/vitor-macedo-rocha-9bb50818a/">
       <img src="/assets/img/linkedin.jpeg" alt="" width="18"/>
     </a> </li>

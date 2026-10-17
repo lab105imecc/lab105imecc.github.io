@@ -4,89 +4,240 @@ title: Pesquisa
 subtitle: Nossas Pesquisas e Conquistas
 ---
 
-No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir para o avanço do conhecimento em análise de dados e modelagem estatística. Nossa equipe trabalha em diversos projetos, que abrangem uma ampla gama de áreas e aplicações.
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-----
+<style>
+/* ---- Pesquisa page ---- */
+.pub-callout {
+  background: linear-gradient(135deg, #1a2a4a 0%, #2d4a7a 100%);
+  border-radius: 12px;
+  padding: 26px 30px;
+  color: #e8edf5;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin: 24px 0;
+}
+.pub-callout-icon { font-size: 2.8rem; color: #C9A84C; flex-shrink: 0; }
+.pub-callout-text h3 { color: #fff; margin: 0 0 6px; font-size: 1.05rem; }
+.pub-callout-text p  { margin: 0 0 14px; color: #b0c0d8; font-size: 0.9rem; line-height: 1.5; }
+.pub-callout-btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: #C9A84C; color: #1a2a4a !important;
+  font-weight: 600; font-size: 0.87rem;
+  padding: 8px 18px; border-radius: 6px;
+  text-decoration: none !important;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+.pub-callout-btn:hover { background: #e0c97a; transform: translateY(-1px); color: #1a2a4a !important; }
 
-## Publicações  <i class="fa-solid fa-file-lines"></i>
+.project-card {
+  background: #fff;
+  border: 1px solid #dce4f0;
+  border-left: 5px solid #C9A84C;
+  border-radius: 10px;
+  padding: 22px 26px;
+  margin: 20px 0;
+  box-shadow: 0 2px 10px rgba(26,42,74,0.06);
+}
+.project-card h4 { color: #1a2a4a; font-size: 0.97rem; margin: 0 0 12px; line-height: 1.45; }
+.project-meta { font-size: 0.84rem; color: #4a6080; margin-bottom: 10px; line-height: 1.7; }
+.project-meta strong { color: #1a2a4a; }
+.project-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  background: #eef2f8; color: #1a5fa8;
+  font-size: 0.74rem; font-weight: 600;
+  padding: 3px 10px; border-radius: 20px; margin-bottom: 12px;
+}
+.project-desc {
+  font-size: 0.87rem; color: #5a6e8a; line-height: 1.65;
+  margin: 12px 0 0; border-top: 1px solid #eef2f8; padding-top: 10px;
+}
 
-Publicamos regularmente em revistas científicas de renome, compartilhando nossos resultados e descobertas com a comunidade acadêmica. Nossas publicações abrangem uma variedade de tópicos e refletem a diversidade e profundidade das nossas pesquisas.
+.awards-list { list-style: none; padding: 0; margin: 20px 0; }
+.award-item {
+  display: flex; align-items: flex-start; gap: 14px;
+  padding: 13px 16px; background: #fff;
+  border-radius: 10px; box-shadow: 0 2px 8px rgba(26,42,74,0.06);
+  margin-bottom: 10px; border: 1px solid #eef2f8;
+  transition: border-color 0.2s ease, transform 0.15s ease;
+}
+.award-item:hover { border-color: #C9A84C; transform: translateX(3px); }
+.award-icon {
+  width: 38px; height: 38px; border-radius: 50%;
+  background: linear-gradient(135deg, #C9A84C, #e0c97a);
+  display: flex; align-items: center; justify-content: center;
+  color: #1a2a4a; font-size: 1rem; flex-shrink: 0;
+}
+.award-body { flex: 1; }
+.award-author { font-size: 0.77rem; font-weight: 700; color: #1a2a4a; text-transform: uppercase; letter-spacing: 0.5px; margin: 0 0 3px; }
+.award-title  { font-size: 0.88rem; color: #2d3748; font-style: italic; margin: 0 0 4px; line-height: 1.4; }
+.award-event  { font-size: 0.79rem; color: #718096; margin: 0; }
 
-----
+.thesis-type-label {
+  display: flex; align-items: center; gap: 10px;
+  font-size: 0.78rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.8px; color: #2d4a7a; margin: 22px 0 10px;
+}
+.thesis-type-label::after { content: ''; flex: 1; height: 1px; background: #dce4f0; }
+.thesis-list { list-style: none; padding: 0; margin: 0; }
+.thesis-item {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 9px 14px; border-radius: 8px; margin-bottom: 5px;
+  background: #f8f9fc; border-left: 3px solid #dce4f0;
+  font-size: 0.88rem; line-height: 1.5;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+.thesis-item:hover { background: #eef2f8; border-left-color: #C9A84C; }
+.thesis-year {
+  font-size: 0.71rem; font-weight: 700; color: #1a5fa8;
+  background: #dce8f8; padding: 2px 7px; border-radius: 4px;
+  white-space: nowrap; margin-top: 2px; flex-shrink: 0;
+}
+.thesis-author { font-weight: 600; color: #1a2a4a; }
+.thesis-title-text { color: #4a6080; font-style: italic; }
 
-## Projetos <i class="fa-solid fa-diagram-project"></i>
+@media (max-width: 600px) {
+  .pub-callout { flex-direction: column; gap: 16px; }
+  .pub-callout-icon { font-size: 2rem; }
+}
+</style>
 
-Além dos projetos individuais, estamos engajados em colaborações com outras instituições.
+No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir para o avanço do conhecimento em análise de dados e modelagem estatística.
 
-<details>
-  <summary>Projeto do Laboratório</summary>
-  <ul>
-    <li> <strong>Modelos de regressão paramétrico e semi-paramétrico sob a classe de distribuições misturas de escala skew-normal.</strong>
-	  <em>Integrantes:</em> Larissa Avila Matos / Filidor Vilca Labra - Coordenador / Caio Lucidius Naberezny Azevedo.
-    <em>Financiador(es):</em> Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio financeiro.
-    <em> Descrição: </em> Modelos de regressão paramétrica e semi-paramétrica representam duas grandes áreas no contexto de modelagem, que têm encontrado aplicações em diferentes áreas. O objetivo deste projeto é considerar modelos de regressão na presença de efeitos aleatórios, que seguem distribuições na família das distribuições escala mistura skew-normal (Branco e Dey, 2001), que são usados efetivamente em estimação robusta na presença de observações extremas. Os principais modelos de regressão que serão considerados são: i) modelo linear misto, ii) modelo com error nas variáveis e iii) modelo de regressão da Teoria de Resposta ao Item (TRI). Para os dois primeiros modelos de regressão são considerados estudos de estimação e análise de diagnóstico, considerando estruturas paramétricas e semi-paramétricas (com resposta censurada). A regressão semi-paramétrica refere-se à incorporação flexível de relações funcionais não-lineares em análise de regressão. Por outro lado, no modelos de regressão da TRI, usado mais frequente em avaliações de traços latentes testes psicométricos, os modelos propostos são baseado em distribuição assimétricas centradas. Estimação são estudados sob um ponto de vista frequentista e Bayesiana. Os objetivos específicos são descritos com mais detalhes no corpo do projeto. </li>
-    </ul>
-</details>
+---
 
-----
+## <i class="fa-solid fa-file-lines"></i> Publicações
 
-## Prêmios <i class="fa-solid fa-trophy" style='font-size:20px'></i>
+<div class="pub-callout">
+  <div class="pub-callout-icon"><i class="fa-brands fa-google-scholar"></i></div>
+  <div class="pub-callout-text">
+    <h3>Produção científica do laboratório</h3>
+    <p>Publicamos regularmente em periódicos científicos de renome internacional, abrangendo tópicos de modelagem estatística, análise de dados e métodos computacionais. Confira a lista completa de artigos e trabalhos dos membros do LMR.</p>
+    <a class="pub-callout-btn" href="https://scholar.google.com.br/citations?hl=en&user=lSCYxF0AAAAJ" target="_blank" rel="noopener">
+      <i class="fa-solid fa-arrow-up-right-from-square"></i> Ver publicações no Google Scholar
+    </a>
+  </div>
+</div>
 
-Os membros do nosso laboratório têm recebido prêmios e reconhecimentos por suas contribuições excepcionais à ciência. Esses reconhecimentos são uma prova do nosso compromisso com a excelência e a inovação em nossas pesquisas.
+---
 
-<details>
-  <summary>Clique para expandir</summary>
-  <ul>
-    <li> O trabalho <em>On moments of folded and truncated multivariate extended skew-normal distributions</em> do aluno <strong>Christian E. Galarza</strong> recebeu o prêmio Best LACSC 2019 Paper Award no 4th Latin American Conference for Statistical Computing. </li>
+## <i class="fa-solid fa-diagram-project"></i> Projetos
 
-    <li> O trabalho <em>Truncated moments of selection elliptical distributions with applications in robust modelling of HIV longitudinal censored data</em> do aluno <strong>Christian E. Galarza</strong> recebeu o prêmio ISI-IBS Young Ambassadors na International Biometrics Conference (IBC 2020).</li>
+<div class="project-card">
+  <span class="project-badge"><i class="fa-solid fa-flask"></i>&nbsp; FAPESP — Auxílio financeiro</span>
+  <h4>Modelos de regressão paramétrico e semi-paramétrico sob a classe de distribuições misturas de escala skew-normal</h4>
+  <div class="project-meta">
+    <strong>Coordenador:</strong> Filidor Vilca Labra<br>
+    <strong>Integrantes:</strong> Larissa Avila Matos · Caio Lucidius Naberezny Azevedo
+  </div>
+  <p class="project-desc">Este projeto estuda modelos de regressão paramétrica e semi-paramétrica na presença de efeitos aleatórios, utilizando a família de distribuições escala mistura skew-normal (Branco e Dey, 2001), eficazes em estimação robusta diante de observações extremas. Os modelos considerados incluem o modelo linear misto, o modelo com erro nas variáveis e o modelo de regressão da Teoria de Resposta ao Item (TRI), com estudos de estimação e diagnóstico sob perspectivas frequentista e Bayesiana.</p>
+</div>
 
-    <li> O trabalho <em>Objective Bayesian analysis for the spatial Student-t regression model</em> do aluno <strong>José Alejandro Ordoñez</strong> ganhou o prêmio do melhor pôster no XV Brazilian Meeting of Bayesian Statistics.</li>
+---
 
-    <li> A dissertação de mestrado da aluna <strong>Katherine Andreina Loor Valeriano</strong> ganhou menção honrosa no Concurso de Dissertação de Mestrado do Simpósio Nacional de Probabilidade e Estatística.</li>
+## <i class="fa-solid fa-trophy"></i> Prêmios
 
-    <li> O trabalho <em>Canonical fundamental skew-t linear mixed models</em> da aluna <strong>Fernanda Lang Schumacher</strong> foi um dos vencedores do prêmio Student competition in association with the Conference in Honour of Fred Smith & Chris Skinner.</li>
+<ul class="awards-list">
 
-    <li> A dissertação de mestrado da aluna <strong>Áurea Fonseca Lopes Galindo</strong> ganhou segundo lugar no Concurso de Melhor Dissertação de Mestrado do 24o Simpósio Nacional de Probabilidade e Estatística. </li>
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">Christian E. Galarza</p>
+      <p class="award-title">On moments of folded and truncated multivariate extended skew-normal distributions</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Best LACSC 2019 Paper Award — 4th Latin American Conference for Statistical Computing</p>
+    </div>
+  </li>
 
-    <li> A dissertação de mestrado do aluno <strong>Matheus Oliveira de Castro</strong> ganhou segundo lugar no Concurso de Melhor Dissertação de Mestrado do 25o Simpósio Nacional de Probabilidade e Estatística. </li>
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">Christian E. Galarza</p>
+      <p class="award-title">Truncated moments of selection elliptical distributions with applications in robust modelling of HIV longitudinal censored data</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; ISI-IBS Young Ambassadors — International Biometrics Conference (IBC 2020)</p>
+    </div>
+  </li>
+
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">José Alejandro Ordoñez</p>
+      <p class="award-title">Objective Bayesian analysis for the spatial Student-t regression model</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Melhor pôster — XV Brazilian Meeting of Bayesian Statistics</p>
+    </div>
+  </li>
+
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-body">
+      <p class="award-author">Katherine Andreina Loor Valeriano</p>
+      <p class="award-title">Dissertação de Mestrado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Menção honrosa — Concurso de Dissertação de Mestrado do SINAPE</p>
+    </div>
+  </li>
+
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">Fernanda Lang Schumacher</p>
+      <p class="award-title">Canonical fundamental skew-t linear mixed models</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Vencedora — Student competition in honour of Fred Smith &amp; Chris Skinner</p>
+    </div>
+  </li>
+
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-body">
+      <p class="award-author">Áurea Fonseca Lopes Galindo</p>
+      <p class="award-title">Dissertação de Mestrado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Dissertação de Mestrado do 24º SINAPE</p>
+    </div>
+  </li>
+
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-body">
+      <p class="award-author">Matheus Oliveira de Castro</p>
+      <p class="award-title">Dissertação de Mestrado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Dissertação de Mestrado do 25º SINAPE</p>
+    </div>
+  </li>
+
 </ul>
-</details>
 
-----
+---
 
-## Dissertações/Teses <i class="fa-solid fa-book" style='font-size:20px'></i>
+## <i class="fa-solid fa-book"></i> Dissertações e Teses
 
-Nossos alunos de mestrado e doutorado desenvolvem dissertações e teses que contribuem significativamente para o campo da análise de dados e modelagem estatística. Esses trabalhos acadêmicos são supervisionados por nossos pesquisadores e refletem o alto nível de rigor científico e inovação presente no laboratório.
+<div>
 
-<details>
-  <summary>Clique para expandir</summary>
-  <ul>
-    <li> Doutorado </li>  
-    <ul>    
-      <li> Amanda Merian Freitas Mendes. <em>Modelos de regressão quantílica paramétricos Bayesianos generalizados</em>. 2024. UNICAMP. </li>
-      <li> Katherine Andreina Loor Valeriano. <em>Inferência para modelos com respostas censurados usando a distribuição Student-t e skew-t</em>. 2024. UNICAMP. </li>
-      <li> Fernanda Lang Schumacher. <em>Robust linear mixed models for longitudinal data using skewed and heavy-tailed distributions</em>. 2021. UNICAMP. </li>
-      <li> Jose Alejandro Ordoñez. <em>On Default Priors for Regression Analysis</em>. 2021. UNICAMP. </li>
-      <li> Christian Eduardo Galarza Morales. <em>On Moments of doubly truncated multivariate distributions</em>. 2020. UNICAMP. </li>
-      <li> Thalita do Bem Mattos. <em>Parametric and semiparametric mixed-effects models for longitudinal censored data</em>. 2020. UNICAMP. </li>
-    </ul>
-    <li> Mestrado </li>  
-    <ul>
-      <li> Letícia Bettine Infante. <em>An extension of the Inverse Gaussian regression model</em>. 2024. UNICAMP.</li>
-      <li> Vitor Macedo Rocha. <em>Influence diagnostics in parametric mixed-effects models for longitudinal data using skew-normal distribution</em>. 2024. UNICAMP.</li>
-      <li> Keyliane Travassos Almeida da Silva. <em>Diagnostic analysis in scale mixture of skew-normal linear mixed models</em>. 2023. UNICAMP. </li>
-      <li> Matheus Oliveira de Castro. <em>Robust Quantile Regression Models for Limited Responses Using Finite Mixtures</em>. 2023. UNICAMP. </li>
-      <li> Andreson Almeida Azevedo. <em>A distribuição Birnbaum-Saunders baseada na distribuição Laplace Assimétrica</em>. 2022.  UNICAMP. </li>
-      <li> Áurea Fonseca Lopes Galindo. <em>Modelos semi-paramétricos para dados independentes e longitudinais com resposta limitada</em>. 2022. UNICAMP.  </li>
-      <li> João Victor Bastos de Freitas. <em>Modelos semi-paramétricos para dados independentes e longitudinais baseados em Misturas de Escala Normal Assimétrica Centralizada</em>. 2022. UNICAMP. </li>
-      <li> Katherine Andreina Loor Valeriano. <em>Inferência para dados espaço-temporais com respostas censuradas e faltantes</em>. 2019. UNICAMP.</li>
-      <li> Marcela Nuñez Lemus. <em>Estimação e diagnóstico em modelos parcialmente lineares censurados sob distribuições de cauda pesada</em>. 2018. UNICAMP.</li>
-    </ul>
-    <li> Iniciação Científica </li>  
-    <ul>    
-      <li> Nathan Brusamarello De Souto. <em>Inferência para dados espaço-temporais com respostas censuradas e faltantes: Uma aplicação em dados meteorológicos</em>. 2020. UNICAMP.</li>
-      <li> Paulo César de Oliveira Rodrigues. <em>Influência que os professores da educação infantil e fundamental I que gostam ou não de matemática exercem sobre seus alunos</em>. 2019. UNICAMP.</li>
-    </ul>
-  </ul>
-</details>
+<p class="thesis-type-label"><i class="fa-solid fa-graduation-cap"></i>&nbsp; Doutorado</p>
+<ul class="thesis-list">
+  <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Amanda Merian Freitas Mendes.</span> <span class="thesis-title-text">Modelos de regressão quantílica paramétricos Bayesianos generalizados.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Katherine Andreina Loor Valeriano.</span> <span class="thesis-title-text">Inferência para modelos com respostas censurados usando a distribuição Student-t e skew-t.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2021</span><span><span class="thesis-author">Fernanda Lang Schumacher.</span> <span class="thesis-title-text">Robust linear mixed models for longitudinal data using skewed and heavy-tailed distributions.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2021</span><span><span class="thesis-author">Jose Alejandro Ordoñez.</span> <span class="thesis-title-text">On Default Priors for Regression Analysis.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Christian Eduardo Galarza Morales.</span> <span class="thesis-title-text">On Moments of doubly truncated multivariate distributions.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Thalita do Bem Mattos.</span> <span class="thesis-title-text">Parametric and semiparametric mixed-effects models for longitudinal censored data.</span> UNICAMP.</span></li>
+</ul>
+
+<p class="thesis-type-label"><i class="fa-solid fa-scroll"></i>&nbsp; Mestrado</p>
+<ul class="thesis-list">
+  <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Letícia Bettine Infante.</span> <span class="thesis-title-text">An extension of the Inverse Gaussian regression model.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Vitor Macedo Rocha.</span> <span class="thesis-title-text">Influence diagnostics in parametric mixed-effects models for longitudinal data using skew-normal distribution.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2023</span><span><span class="thesis-author">Keyliane Travassos Almeida da Silva.</span> <span class="thesis-title-text">Diagnostic analysis in scale mixture of skew-normal linear mixed models.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2023</span><span><span class="thesis-author">Matheus Oliveira de Castro.</span> <span class="thesis-title-text">Robust Quantile Regression Models for Limited Responses Using Finite Mixtures.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2022</span><span><span class="thesis-author">Andreson Almeida Azevedo.</span> <span class="thesis-title-text">A distribuição Birnbaum-Saunders baseada na distribuição Laplace Assimétrica.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2022</span><span><span class="thesis-author">Áurea Fonseca Lopes Galindo.</span> <span class="thesis-title-text">Modelos semi-paramétricos para dados independentes e longitudinais com resposta limitada.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2022</span><span><span class="thesis-author">João Victor Bastos de Freitas.</span> <span class="thesis-title-text">Modelos semi-paramétricos para dados independentes e longitudinais baseados em Misturas de Escala Normal Assimétrica Centralizada.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Katherine Andreina Loor Valeriano.</span> <span class="thesis-title-text">Inferência para dados espaço-temporais com respostas censuradas e faltantes.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Marcela Nuñez Lemus.</span> <span class="thesis-title-text">Estimação e diagnóstico em modelos parcialmente lineares censurados sob distribuições de cauda pesada.</span> UNICAMP.</span></li>
+</ul>
+
+<p class="thesis-type-label"><i class="fa-solid fa-flask-vial"></i>&nbsp; Iniciação Científica</p>
+<ul class="thesis-list">
+  <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Nathan Brusamarello De Souto.</span> <span class="thesis-title-text">Inferência para dados espaço-temporais com respostas censuradas e faltantes: Uma aplicação em dados meteorológicos.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Paulo César de Oliveira Rodrigues.</span> <span class="thesis-title-text">Influência que os professores da educação infantil e fundamental I que gostam ou não de matemática exercem sobre seus alunos.</span> UNICAMP.</span></li>
+</ul>
+
+</div>

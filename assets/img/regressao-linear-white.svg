@@ -1,0 +1,46 @@
+<svg viewBox="4 4 92 92" xmlns="http://www.w3.org/2000/svg">
+  <!-- Eixos -->
+  <line x1="14" y1="86" x2="14" y2="9" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="14" y1="86" x2="91" y2="86" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Tracinhos eixo Y -->
+  <g stroke="white" stroke-width="1.2" stroke-linecap="round">
+    <line x1="11" y1="70" x2="17" y2="70"/>
+    <line x1="11" y1="54" x2="17" y2="54"/>
+    <line x1="11" y1="38" x2="17" y2="38"/>
+    <line x1="11" y1="22" x2="17" y2="22"/>
+  </g>
+
+  <!-- Tracinhos eixo X -->
+  <g stroke="white" stroke-width="1.2" stroke-linecap="round">
+    <line x1="32" y1="83" x2="32" y2="89"/>
+    <line x1="50" y1="83" x2="50" y2="89"/>
+    <line x1="68" y1="83" x2="68" y2="89"/>
+    <line x1="86" y1="83" x2="86" y2="89"/>
+  </g>
+
+  <!-- Reta de regressão -->
+  <line x1="20" y1="81" x2="78" y2="20"
+        stroke="white" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- R no final da linha -->
+  <text x="79" y="19" font-family="Arial Black, Arial, sans-serif" font-size="13"
+        font-weight="900" fill="white">R</text>
+
+  <!-- Pontos em forma de M -->
+  <g fill="white" stroke="white" stroke-width="1.2">
+    <circle cx="30" cy="78" r="3.5"/>
+    <circle cx="31" cy="65" r="3.5"/>
+    <circle cx="29" cy="52" r="3.5"/>
+    <circle cx="30" cy="40" r="3.5"/>
+    <circle cx="38" cy="50" r="3.5"/>
+    <circle cx="45" cy="60" r="3.5"/>
+    <circle cx="51" cy="66" r="3.5"/>
+    <circle cx="58" cy="56" r="3.5"/>
+    <circle cx="64" cy="46" r="3.5"/>
+    <circle cx="71" cy="38" r="3.5"/>
+    <circle cx="70" cy="52" r="3.5"/>
+    <circle cx="72" cy="64" r="3.5"/>
+    <circle cx="71" cy="76" r="3.5"/>
+  </g>
+</svg>

@@ -1,0 +1,355 @@
+/* ============================================================
+   LMR — Laboratório de Modelos de Regressão
+   Custom CSS — Fase 2 (Design Moderno)
+   Paleta: Navy (#1a2a4a) + Dourado (#C9A84C) + Cinza claro (#f8f9fc)
+   ============================================================ */
+
+/* ---------- Tipografia ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #2d3748;
+  background-color: #f8f9fc;
+}
+
+/* ---------- Navbar ---------- */
+.navbar-custom {
+  border-bottom: 3px solid #C9A84C !important;
+  box-shadow: 0 2px 12px rgba(26, 42, 74, 0.18);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-brand:hover {
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 0.5px;
+  color: #ffffff !important;
+}
+
+.navbar-custom .nav-item .nav-link {
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0.3px;
+  transition: color 0.2s ease;
+}
+
+.navbar-custom .nav-item .nav-link:hover,
+.navbar-custom .nav-item.active .nav-link {
+  color: #C9A84C !important;
+}
+
+/* ---------- Hero / Título da página ---------- */
+.intro-header .page-heading,
+.intro-header .post-heading {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.intro-header .page-subheading,
+.intro-header .post-subheading {
+  font-weight: 300;
+  opacity: 0.9;
+}
+
+/* ---------- Conteúdo principal ---------- */
+.container .blog-post,
+.container .page-content,
+.main-content {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 36px 40px;
+  box-shadow: 0 2px 16px rgba(26, 42, 74, 0.07);
+  margin-bottom: 32px;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3, h4 {
+  color: #1a2a4a;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h2 {
+  font-size: 1.55rem;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #C9A84C;
+  margin-top: 2rem;
+  margin-bottom: 1.2rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: #2d4a7a;
+  margin-top: 1.5rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e2e8f0;
+  margin: 2rem 0;
+}
+
+/* ---------- Links ---------- */
+a {
+  color: #1a5fa8;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #C9A84C;
+  text-decoration: none;
+}
+
+/* ---------- Botões / Tags ---------- */
+.label {
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+/* ---------- Cards de posts na home ---------- */
+.post-preview {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 10px rgba(26, 42, 74, 0.07);
+  border-left: 4px solid #C9A84C;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-preview:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(26, 42, 74, 0.13);
+}
+
+.post-preview > a > .post-title {
+  font-size: 1.25rem;
+  color: #1a2a4a;
+  font-weight: 700;
+}
+
+.post-preview > a > .post-subtitle {
+  color: #4a6080;
+  font-weight: 400;
+}
+
+.post-preview .post-meta {
+  color: #718096;
+  font-size: 0.85rem;
+}
+
+/* ---------- Cards de Membros (Pesquisadores) ---------- */
+.member-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
+  margin: 28px 0;
+}
+
+.member-card {
+  flex: 1 1 calc(33.333% - 22px);
+  min-width: 190px;
+  max-width: 270px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 2px 14px rgba(26, 42, 74, 0.1);
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+  border-top: 4px solid #C9A84C;
+}
+
+.member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(26, 42, 74, 0.18);
+}
+
+/* Foto do membro */
+.member-card-photo {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+}
+
+/* Avatar com inicial (fallback sem foto) */
+.member-card-avatar {
+  width: 100%;
+  height: 190px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #1a2a4a 0%, #2d4a7a 100%);
+  font-size: 3.2rem;
+  font-weight: 700;
+  color: #C9A84C;
+  letter-spacing: 2px;
+  user-select: none;
+}
+
+/* Corpo do card */
+.member-card-body {
+  padding: 16px 14px 18px;
+}
+
+.member-card-name {
+  font-size: 0.93rem;
+  font-weight: 600;
+  color: #1a2a4a;
+  margin: 0 0 4px;
+  line-height: 1.35;
+}
+
+.member-card-role {
+  font-size: 0.78rem;
+  color: #718096;
+  font-weight: 400;
+  margin: 0 0 10px;
+}
+
+/* Ícones de links no card */
+.member-card-links {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.member-card-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #eef2f8;
+  transition: background 0.2s ease, transform 0.15s ease;
+  border: 1px solid #dce4f0;
+}
+
+.member-card-links a:hover {
+  background: #C9A84C;
+  transform: scale(1.12);
+  border-color: #C9A84C;
+}
+
+.member-card-links img {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  filter: none;
+}
+
+/* ---------- Listas de Colaboradores / Alunos ---------- */
+.member-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.member-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  margin-bottom: 6px;
+  background: #f8f9fc;
+  border-left: 3px solid #dce4f0;
+  font-size: 0.93rem;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.member-list li:hover {
+  background: #eef2f8;
+  border-left-color: #C9A84C;
+}
+
+.member-list li .member-links {
+  margin-left: auto;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.member-list li .member-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: #dce4f0;
+  transition: background 0.2s ease;
+}
+
+.member-list li .member-links a:hover {
+  background: #C9A84C;
+}
+
+.member-list li .member-links img {
+  width: 13px;
+  height: 13px;
+  object-fit: contain;
+}
+
+/* Subtítulo de grupo (Internacionais / Nacionais) */
+.member-group-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #2d4a7a;
+  margin: 16px 0 8px;
+  padding-left: 4px;
+}
+
+/* ---------- Footer ---------- */
+.footer-custom {
+  border-top: 3px solid #C9A84C;
+}
+
+/* ---------- Paginação ---------- */
+.pagination .page-item .page-link {
+  color: #1a2a4a;
+  border-color: #dce4f0;
+  border-radius: 6px;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #1a2a4a;
+  border-color: #1a2a4a;
+  color: #fff;
+}
+
+.pagination .page-item .page-link:hover {
+  background-color: #C9A84C;
+  border-color: #C9A84C;
+  color: #1a2a4a;
+}
+
+/* ---------- Responsivo ---------- */
+@media (max-width: 900px) {
+  .member-card {
+    flex: 1 1 calc(50% - 22px);
+  }
+}
+
+@media (max-width: 560px) {
+  .member-card {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .container .blog-post,
+  .container .page-content,
+  .main-content {
+    padding: 20px 18px;
+  }
+}

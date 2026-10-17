@@ -322,6 +322,15 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
 <div data-thesis-type="ic">
 <p class="thesis-type-label"><i class="fa-solid fa-flask-vial"></i>&nbsp; Iniciação Científica</p>
 <ul class="thesis-list">
+  <li class="thesis-item"><span class="thesis-year">2025</span><span><span class="thesis-author">Sara dos Anjos de Souza Dias.</span> <span class="thesis-title-text">Convergência do Algoritmo EM para Estimação em Modelos Lineares Mistos: Enfrentando o Desafio das Distribuições Assimétricas e com Caudas Pesadas.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2025</span><span><span class="thesis-author">Leila Akemi de Paula Kawanishi.</span> <span class="thesis-title-text">Visualizações Interativas para Estatística com R Shiny.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2025</span><span><span class="thesis-author">Bernardo Abib de Almeida.</span> <span class="thesis-title-text">Avaliação do Impacto da Priori na Inferência para Árvores de Contexto Bayesianas.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Rodrigo de Lima Dantas.</span> <span class="thesis-title-text">Modelos de Regressão para Dados de Contagem.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Rafaela Da Silva Barril.</span> <span class="thesis-title-text">Modelos de regressão quantílica baseados na distribuição q-exponencial.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Rafaela da Silva Barril.</span> <span class="thesis-title-text">Árvores de Classificação e Aplicações.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2023</span><span><span class="thesis-author">Rafaela Da Silva Barril.</span> <span class="thesis-title-text">Desenvolvimento de modelos probabilísticos univariados e flexíveis.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2023</span><span><span class="thesis-author">Gabriela Martins dos Santos.</span> <span class="thesis-title-text">Análise estatística de agrupamentos e de outliers com ênfase na detecção de fraudes em testes.</span> UNICAMP.</span></li>
+  <li class="thesis-item"><span class="thesis-year">2021</span><span><span class="thesis-author">Gabrielli Fregate Bedana.</span> <span class="thesis-title-text">Uma breve aproximação entre Análise de Sobrevivência e Teoria da Resposta ao Item.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Nathan Brusamarello De Souto.</span> <span class="thesis-title-text">Inferência para dados espaço-temporais com respostas censuradas e faltantes: Uma aplicação em dados meteorológicos.</span> UNICAMP.</span></li>
 </ul>
 </div>

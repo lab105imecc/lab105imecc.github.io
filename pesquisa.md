@@ -222,6 +222,51 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
       <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Dissertação de Mestrado do 25º SINAPE</p>
     </div>
   </li>
+  
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">Larissa Avila Matos</p>
+      <p class="award-title"> Prêmio Para Mulheres na Ciência</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Ganhadora do Prêmio Para Mulheres na Ciência — L’Oréal, Associação Brasileira de Ciências e Unesco</p>
+    </div>
+  </li>  
+  
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">João Victor Bastos de Freitas</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 1º lugar — Concurso de Melhor Tese de Doutorado da 69ª RBras e do 21º SEAGRO</p>
+    </div>
+  </li>
+  
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-body">
+      <p class="award-author">Katherine Andreina Loor Valerianoo</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 3º lugar — Concurso de Melhor Tese de Doutorado da 69ª RBras e do 21º SEAGRO</p>
+    </div>
+  </li>
+  
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">Áurea Fonseca Lopes Galindo</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 1º lugar — Concurso de Melhor Tese de Doutorado do 26º SINAPE</p>
+    </div>
+  </li>
+  
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-body">
+      <p class="award-author">Katherine Andreina Loor Valerianoo</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Tese de Doutorado do 26º SINAPE</p>
+    </div>
+  </li>
 
 </ul>
 

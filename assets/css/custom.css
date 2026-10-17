@@ -428,3 +428,20 @@ a:hover {
   letter-spacing: 0.04em;
   margin-top: 0.4rem;
 }
+
+/* Navbar brand: logo branco + LMR em todas as páginas */
+.navbar-custom .navbar-brand-logo {
+  display: flex !important;
+  align-items: center;
+  gap: 10px;
+}
+.navbar-custom .navbar-brand-logo img {
+  height: 34px !important;
+  width: 34px !important;
+}
+.navbar-custom .navbar-brand-logo .lmr-brand-text {
+  color: var(--navbar-text-col) !important;
+  font-weight: 800;
+  font-size: 1.1rem;
+  letter-spacing: 0.04em;
+}

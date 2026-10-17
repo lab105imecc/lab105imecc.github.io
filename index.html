@@ -4,29 +4,19 @@ title: LMR
 subtitle: Laboratório de Modelos de Regressão
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
 <style>
 .lmr-welcome {
-  font-size: 1.02rem;
-  line-height: 1.8;
-  color: #4a6080;
-  margin-bottom: 0;
+  font-size: 1.02rem; line-height: 1.8; color: #4a6080; margin-bottom: 0;
 }
 .lmr-stats {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 14px;
-  margin: 28px 0 10px;
+  display: flex; flex-wrap: wrap; gap: 14px; margin: 26px 0 10px;
 }
 .lmr-stat-item {
-  flex: 1 1 130px;
-  background: #fff;
-  border-radius: 12px;
+  flex: 1 1 120px;
+  background: #fff; border-radius: 12px;
   border-top: 3px solid #C9A84C;
   box-shadow: 0 2px 10px rgba(26,42,74,0.07);
-  padding: 18px 16px;
-  text-align: center;
+  padding: 18px 14px; text-align: center;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 .lmr-stat-item:hover {
@@ -34,52 +24,91 @@ subtitle: Laboratório de Modelos de Regressão
   box-shadow: 0 6px 18px rgba(26,42,74,0.12);
 }
 .lmr-stat-number {
-  font-size: 2rem;
-  font-weight: 700;
-  color: #1a2a4a;
-  line-height: 1;
-  margin-bottom: 5px;
+  font-size: 2rem; font-weight: 700; color: #1a2a4a;
+  line-height: 1; margin-bottom: 5px;
 }
 .lmr-stat-label {
-  font-size: 0.78rem;
-  color: #718096;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  font-size: 0.76rem; color: #718096; font-weight: 500;
+  text-transform: uppercase; letter-spacing: 0.5px;
 }
-.lmr-divider {
-  border: none;
-  border-top: 1px solid #e2e8f0;
-  margin: 28px 0 10px;
+
+/* Publicação em destaque */
+.feat-pub-wrap { margin: 20px 0 0; }
+.feat-pub-section-label {
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.8px; color: #2d4a7a; margin: 0 0 10px;
+  display: flex; align-items: center; gap: 8px;
 }
+.feat-pub-section-label::after { content: ''; flex: 1; height: 1px; background: #dce4f0; }
+.feat-pub {
+  background: #fff; border: 1px solid #dce4f0;
+  border-left: 5px solid #C9A84C; border-radius: 10px;
+  padding: 18px 22px; box-shadow: 0 2px 10px rgba(26,42,74,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.feat-pub:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(26,42,74,0.1); }
+.feat-pub-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  background: #eef2f8; color: #1a5fa8;
+  font-size: 0.72rem; font-weight: 600;
+  padding: 2px 9px; border-radius: 20px; margin-bottom: 8px;
+}
+.feat-pub-title {
+  font-size: 0.97rem; font-weight: 600; color: #1a2a4a;
+  margin: 0 0 6px; line-height: 1.4;
+}
+.feat-pub-authors { font-size: 0.84rem; color: #4a6080; margin: 0 0 6px; }
+.feat-pub-venue   { font-size: 0.82rem; color: #718096; font-style: italic; margin: 0 0 10px; }
+.feat-pub-link {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 0.82rem; font-weight: 600; color: #1a5fa8 !important;
+  text-decoration: none !important;
+}
+.feat-pub-link:hover { color: #C9A84C !important; }
+
+.lmr-divider { border: none; border-top: 1px solid #e2e8f0; margin: 28px 0 10px; }
+
 @media (max-width: 560px) {
   .lmr-stats { gap: 10px; }
   .lmr-stat-number { font-size: 1.6rem; }
 }
 </style>
 
-<p class="lmr-welcome">Bem-vindos ao <strong>Laboratório de Modelos de Regressão (LMR)</strong> do IMECC/UNICAMP. Desde 2018, desenvolvemos pesquisa de ponta em modelagem estatística, Teoria da Resposta ao Item e métodos computacionais, com colaborações nacionais e internacionais.</p>
+<p class="lmr-welcome lmr-fade">Bem-vindos ao <strong>Laboratório de Modelos de Regressão (LMR)</strong> do IMECC/UNICAMP. Desde 2018, desenvolvemos pesquisa de ponta em modelagem estatística, Teoria da Resposta ao Item e métodos computacionais, com colaborações nacionais e internacionais.</p>
 
-<div class="lmr-stats">
+<div class="lmr-stats lmr-fade">
   <div class="lmr-stat-item">
-    <div class="lmr-stat-number">2018</div>
+    <div class="lmr-stat-number" data-counter="2018">2018</div>
     <div class="lmr-stat-label">Fundação</div>
   </div>
   <div class="lmr-stat-item">
-    <div class="lmr-stat-number">6</div>
+    <div class="lmr-stat-number" data-counter="6">6</div>
     <div class="lmr-stat-label">Pesquisadores</div>
   </div>
   <div class="lmr-stat-item">
-    <div class="lmr-stat-number">15+</div>
+    <div class="lmr-stat-number" data-counter="15" data-suffix="+">15+</div>
     <div class="lmr-stat-label">Dissertações &amp; Teses</div>
   </div>
   <div class="lmr-stat-item">
-    <div class="lmr-stat-number">7</div>
+    <div class="lmr-stat-number" data-counter="7">7</div>
     <div class="lmr-stat-label">Prêmios</div>
   </div>
   <div class="lmr-stat-item">
-    <div class="lmr-stat-number">13+</div>
+    <div class="lmr-stat-number" data-counter="13" data-suffix="+">13+</div>
     <div class="lmr-stat-label">Colaboradores</div>
+  </div>
+</div>
+
+<div class="feat-pub-wrap lmr-fade">
+  <p class="feat-pub-section-label"><i class="fa-solid fa-star"></i> Publicação em destaque</p>
+  <div class="feat-pub">
+    <span class="feat-pub-badge"><i class="fa-solid fa-file-lines"></i>&nbsp; 2024</span>
+    <p class="feat-pub-title">Generalized Bayesian Parametric Quantile Regression Models</p>
+    <p class="feat-pub-authors">Amanda Merian Freitas Mendes · Larissa Avila Matos · Caio L. N. Azevedo</p>
+    <p class="feat-pub-venue">Tese de Doutorado — UNICAMP, 2024</p>
+    <a class="feat-pub-link" href="https://scholar.google.com.br/citations?hl=en&user=lSCYxF0AAAAJ" target="_blank" rel="noopener">
+      <i class="fa-solid fa-arrow-up-right-from-square"></i> Ver todas as publicações no Google Scholar
+    </a>
   </div>
 </div>
 

@@ -158,11 +158,11 @@ footer-hover-col: "#e0c97a"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
+  - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
   - "/assets/css/custom.css"
 
-# If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
+site-js:
+  - "/assets/js/lmr.js"
 
 #################################
 # --- Web Analytics Section --- #

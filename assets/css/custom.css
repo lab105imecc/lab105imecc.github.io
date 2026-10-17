@@ -334,6 +334,72 @@ a:hover {
   color: #1a2a4a;
 }
 
+/* ---------- Scroll fade-in ---------- */
+.lmr-fade {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.55s ease, transform 0.55s ease;
+}
+.lmr-fade.lmr-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ---------- Modo escuro automático ---------- */
+@media (prefers-color-scheme: dark) {
+  body { background-color: #0e1621 !important; color: #c8d6e5 !important; }
+  .container .blog-post, .container .page-content, .main-content {
+    background: #162032 !important; box-shadow: 0 2px 16px rgba(0,0,0,0.35) !important;
+  }
+  h1, h2, h3, h4 { color: #d0ddf0 !important; }
+  h2 { border-bottom-color: #C9A84C !important; }
+  h3 { color: #a8c0e0 !important; }
+  hr { border-top-color: #2a3a52 !important; }
+  a { color: #7ab0e8 !important; }
+  a:hover { color: #C9A84C !important; }
+  .post-preview { background: #162032 !important; box-shadow: 0 2px 10px rgba(0,0,0,0.3) !important; }
+  .post-preview > a > .post-title { color: #d0ddf0 !important; }
+  .post-preview > a > .post-subtitle { color: #8a9bb8 !important; }
+  .member-card { background: #162032 !important; }
+  .member-card-name { color: #d0ddf0 !important; }
+  .member-card-links a { background: #1e304a !important; border-color: #2d4060 !important; }
+  .member-list li { background: #162032 !important; border-left-color: #2a3a52 !important; color: #c8d6e5 !important; }
+  .member-list li:hover { background: #1e304a !important; border-left-color: #C9A84C !important; }
+  .member-group-label { color: #7ab0e8 !important; }
+  .project-card { background: #162032 !important; border-color: #2a3a52 !important; }
+  .project-meta { color: #8a9bb8 !important; }
+  .project-meta strong { color: #c8d6e5 !important; }
+  .project-desc { color: #8a9bb8 !important; border-top-color: #2a3a52 !important; }
+  .project-badge { background: #1e304a !important; color: #7ab0e8 !important; }
+  .award-item { background: #162032 !important; border-color: #2a3a52 !important; }
+  .award-author { color: #d0ddf0 !important; }
+  .award-title  { color: #c8d6e5 !important; }
+  .award-event  { color: #8a9bb8 !important; }
+  .thesis-item { background: #162032 !important; border-left-color: #2a3a52 !important; }
+  .thesis-item:hover { background: #1e304a !important; border-left-color: #C9A84C !important; }
+  .thesis-author { color: #d0ddf0 !important; }
+  .thesis-title-text { color: #8a9bb8 !important; }
+  .thesis-type-label { color: #7ab0e8 !important; }
+  .thesis-type-label::after { background: #2a3a52 !important; }
+  .thesis-filter-btn { background: #1e304a !important; color: #8a9bb8 !important; border-color: #2a3a52 !important; }
+  .thesis-filter-btn:hover, .thesis-filter-btn.active { background: #C9A84C !important; color: #1a2a4a !important; border-color: #C9A84C !important; }
+  .lmr-info-item { background: #1e304a !important; color: #c8d6e5 !important; }
+  .research-line-card { background: #162032 !important; }
+  .research-line-card p { color: #8a9bb8 !important; }
+  .rl-sublist li { color: #8a9bb8 !important; }
+  .lmr-stat-item { background: #162032 !important; }
+  .lmr-stat-number { color: #d0ddf0 !important; }
+  .lmr-stat-label  { color: #8a9bb8 !important; }
+  .feat-pub { background: #162032 !important; border-color: #2a3a52 !important; }
+  .feat-pub-title { color: #d0ddf0 !important; }
+  .feat-pub-authors { color: #8a9bb8 !important; }
+  .feat-pub-venue { color: #6a829a !important; }
+  .timeline-card { background: #162032 !important; border-color: #2a3a52 !important; }
+  .timeline-card p { color: #8a9bb8 !important; }
+  .timeline-line { background: #2a3a52 !important; }
+  .timeline-dot  { border-color: #0e1621 !important; }
+}
+
 /* ---------- Responsivo ---------- */
 @media (max-width: 900px) {
   .member-card {

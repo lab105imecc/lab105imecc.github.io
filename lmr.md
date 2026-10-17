@@ -47,9 +47,42 @@ subtitle: O Laboratório
 
 .lmr-closing { font-size: 0.95rem; color: #4a6080; line-height: 1.8; margin-top: 8px; }
 
+/* ---- Timeline ---- */
+.timeline-wrap { position: relative; padding: 10px 0 4px; margin: 24px 0; }
+.timeline-line {
+  position: absolute; left: 22px; top: 0; bottom: 0;
+  width: 3px; background: linear-gradient(to bottom, #C9A84C, #1a2a4a);
+  border-radius: 2px;
+}
+.timeline-card {
+  position: relative; margin-left: 56px; margin-bottom: 20px;
+  background: #fff; border-radius: 10px;
+  border: 1px solid #dce4f0; border-left: 4px solid #C9A84C;
+  padding: 14px 20px;
+  box-shadow: 0 2px 10px rgba(26,42,74,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.timeline-card:hover { transform: translateX(4px); box-shadow: 0 4px 16px rgba(26,42,74,0.12); }
+.timeline-dot {
+  position: absolute; left: -42px; top: 14px;
+  width: 18px; height: 18px; border-radius: 50%;
+  background: #C9A84C; border: 3px solid #f8f9fc;
+  box-shadow: 0 0 0 2px #C9A84C;
+}
+.timeline-year {
+  font-size: 0.72rem; font-weight: 700; color: #1a5fa8;
+  background: #dce8f8; padding: 2px 8px; border-radius: 4px;
+  display: inline-block; margin-bottom: 6px;
+}
+.timeline-card h4 { font-size: 0.93rem; color: #1a2a4a; margin: 0 0 4px; }
+.timeline-card p  { font-size: 0.84rem; color: #718096; margin: 0; line-height: 1.55; }
+
 @media (max-width: 600px) {
   .lmr-info-strip { flex-direction: column; }
   .research-lines  { flex-direction: column; }
+  .timeline-line { left: 14px; }
+  .timeline-card { margin-left: 38px; }
+  .timeline-dot  { left: -30px; width: 14px; height: 14px; top: 16px; }
 }
 </style>
 
@@ -97,6 +130,59 @@ subtitle: O Laboratório
     <div class="research-line-icon"><i class="fa-solid fa-microchip"></i></div>
     <h3>Métodos Computacionais</h3>
     <p>Criação e implementação de algoritmos eficientes para análise de dados complexos, integrando abordagens frequentistas e Bayesianas.</p>
+  </div>
+
+</div>
+
+---
+
+---
+
+## <i class="fa-solid fa-clock-rotate-left"></i> Nossa Trajetória
+
+<div class="timeline-wrap">
+  <div class="timeline-line"></div>
+
+  <div class="timeline-card lmr-fade">
+    <div class="timeline-dot"></div>
+    <span class="timeline-year">2018</span>
+    <h4>Fundação do LMR</h4>
+    <p>O laboratório é criado no IMECC/UNICAMP, com foco em modelagem estatística, Teoria da Resposta ao Item e métodos computacionais.</p>
+  </div>
+
+  <div class="timeline-card lmr-fade">
+    <div class="timeline-dot"></div>
+    <span class="timeline-year">2019</span>
+    <h4>Primeiros prêmios internacionais</h4>
+    <p>Christian Galarza recebe o Best Paper Award na 4th Latin American Conference for Statistical Computing (LACSC 2019).</p>
+  </div>
+
+  <div class="timeline-card lmr-fade">
+    <div class="timeline-dot"></div>
+    <span class="timeline-year">2020</span>
+    <h4>Expansão e reconhecimento</h4>
+    <p>Primeiras teses de doutorado defendidas no laboratório. Galarza é eleito ISI-IBS Young Ambassador na IBC 2020.</p>
+  </div>
+
+  <div class="timeline-card lmr-fade">
+    <div class="timeline-dot"></div>
+    <span class="timeline-year">2021</span>
+    <h4>Robustez em modelos mistos</h4>
+    <p>Novas teses de doutorado com foco em modelos mistos robustos para dados longitudinais e priores objetivos em análise de regressão.</p>
+  </div>
+
+  <div class="timeline-card lmr-fade">
+    <div class="timeline-dot"></div>
+    <span class="timeline-year">2022–2023</span>
+    <h4>Crescimento em colaborações</h4>
+    <p>Expansão das parcerias nacionais e internacionais. Fernanda Schumacher vence competição estudantil em homenagem a Fred Smith &amp; Chris Skinner.</p>
+  </div>
+
+  <div class="timeline-card lmr-fade">
+    <div class="timeline-dot"></div>
+    <span class="timeline-year">2024</span>
+    <h4>Novas fronteiras em quantílica Bayesiana</h4>
+    <p>Defesas de doutorado em regressão quantílica paramétrica Bayesiana e modelos com respostas censuradas. Menções honrosas e prêmios do SINAPE.</p>
   </div>
 
 </div>

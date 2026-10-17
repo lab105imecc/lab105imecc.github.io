@@ -97,6 +97,26 @@ subtitle: Nossas Pesquisas e Conquistas
 .thesis-author { font-weight: 600; color: #1a2a4a; }
 .thesis-title-text { color: #4a6080; font-style: italic; }
 
+/* ---- Filter buttons ---- */
+.thesis-filters {
+  display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 4px;
+}
+.thesis-filter-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 7px 16px; border-radius: 20px;
+  font-size: 0.82rem; font-weight: 600; cursor: pointer;
+  border: 1.5px solid #dce4f0;
+  background: #f8f9fc; color: #4a6080;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
+  user-select: none;
+}
+.thesis-filter-btn:hover {
+  background: #eef2f8; border-color: #b0c0d8; transform: translateY(-1px);
+}
+.thesis-filter-btn.active {
+  background: #1a2a4a; color: #C9A84C; border-color: #1a2a4a;
+}
+
 @media (max-width: 600px) {
   .pub-callout { flex-direction: column; gap: 16px; }
   .pub-callout-icon { font-size: 2rem; }
@@ -209,8 +229,16 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
 
 ## <i class="fa-solid fa-book"></i> Dissertações e Teses
 
-<div>
+<div class="thesis-filters">
+  <button class="thesis-filter-btn active" onclick="filterThesis('all', this)"><i class="fa-solid fa-layer-group"></i> Todos</button>
+  <button class="thesis-filter-btn" onclick="filterThesis('doutorado', this)"><i class="fa-solid fa-graduation-cap"></i> Doutorado</button>
+  <button class="thesis-filter-btn" onclick="filterThesis('mestrado', this)"><i class="fa-solid fa-scroll"></i> Mestrado</button>
+  <button class="thesis-filter-btn" onclick="filterThesis('ic', this)"><i class="fa-solid fa-flask-vial"></i> Iniciação Científica</button>
+</div>
 
+<div id="thesis-all">
+
+<div data-thesis-type="doutorado">
 <p class="thesis-type-label"><i class="fa-solid fa-graduation-cap"></i>&nbsp; Doutorado</p>
 <ul class="thesis-list">
   <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Amanda Merian Freitas Mendes.</span> <span class="thesis-title-text">Modelos de regressão quantílica paramétricos Bayesianos generalizados.</span> UNICAMP.</span></li>
@@ -220,7 +248,9 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Christian Eduardo Galarza Morales.</span> <span class="thesis-title-text">On Moments of doubly truncated multivariate distributions.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Thalita do Bem Mattos.</span> <span class="thesis-title-text">Parametric and semiparametric mixed-effects models for longitudinal censored data.</span> UNICAMP.</span></li>
 </ul>
+</div>
 
+<div data-thesis-type="mestrado">
 <p class="thesis-type-label"><i class="fa-solid fa-scroll"></i>&nbsp; Mestrado</p>
 <ul class="thesis-list">
   <li class="thesis-item"><span class="thesis-year">2024</span><span><span class="thesis-author">Letícia Bettine Infante.</span> <span class="thesis-title-text">An extension of the Inverse Gaussian regression model.</span> UNICAMP.</span></li>
@@ -233,11 +263,24 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
   <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Katherine Andreina Loor Valeriano.</span> <span class="thesis-title-text">Inferência para dados espaço-temporais com respostas censuradas e faltantes.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Marcela Nuñez Lemus.</span> <span class="thesis-title-text">Estimação e diagnóstico em modelos parcialmente lineares censurados sob distribuições de cauda pesada.</span> UNICAMP.</span></li>
 </ul>
+</div>
 
+<div data-thesis-type="ic">
 <p class="thesis-type-label"><i class="fa-solid fa-flask-vial"></i>&nbsp; Iniciação Científica</p>
 <ul class="thesis-list">
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Nathan Brusamarello De Souto.</span> <span class="thesis-title-text">Inferência para dados espaço-temporais com respostas censuradas e faltantes: Uma aplicação em dados meteorológicos.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Paulo César de Oliveira Rodrigues.</span> <span class="thesis-title-text">Influência que os professores da educação infantil e fundamental I que gostam ou não de matemática exercem sobre seus alunos.</span> UNICAMP.</span></li>
 </ul>
+</div>
 
 </div>
+
+<script>
+function filterThesis(type, btn) {
+  document.querySelectorAll('.thesis-filter-btn').forEach(function(b) { b.classList.remove('active'); });
+  btn.classList.add('active');
+  document.querySelectorAll('#thesis-all [data-thesis-type]').forEach(function(section) {
+    section.style.display = (type === 'all' || section.getAttribute('data-thesis-type') === type) ? '' : 'none';
+  });
+}
+</script>

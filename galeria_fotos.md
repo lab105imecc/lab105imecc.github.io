@@ -4,105 +4,101 @@ title: Galeria de Fotos
 ---
 
 <style>
-.column-f5{
-float: left;
-width: 14.28%;
-text-align: center;
-}
-.column-f2c{
-float: left;
-width: 33.33%;
-text-align: center;
-}
-.row:after {
-content: "";
-display: table;
-clear: both;
+/* Grid de fotos */
+.gallery-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
 }
 
-#myImg {
-  border-radius: 5px;
+.gallery-grid .gallery-item {
+  flex: 1 1 calc(33.333% - 12px);
+  min-width: 200px;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 6px;
   cursor: pointer;
-  transition: 0.3s;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  display: block;
 }
 
-#myImg:hover {opacity: 0.7;}
+.gallery-item img:hover {
+  opacity: 0.82;
+  transform: scale(1.02);
+}
 
-/* The Modal (background) */
-.modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+/* Modal */
+#gallery-modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
   left: 0;
   top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.92);
+  overflow: auto;
 }
 
-/* Modal Content (image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 50%;
-  max-width: 700px;
+#gallery-modal .modal-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
 }
 
-/* Caption of Modal Image */
-#caption {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
+#gallery-modal-img {
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 4px;
+  animation: zoomIn 0.3s ease;
+}
+
+#gallery-modal-caption {
+  color: #ddd;
   text-align: center;
-  color: #ccc;
-  padding: 10px 0;
-  height: 150px;
+  padding: 14px 0 0;
+  font-size: 1rem;
+  max-width: 700px;
 }
 
-/* Add Animation */
-.modal-content, #caption {  
-  -webkit-animation-name: zoom;
-  -webkit-animation-duration: 0.6s;
-  animation-name: zoom;
-  animation-duration: 0.6s;
-}
-
-@-webkit-keyframes zoom {
-  from {-webkit-transform:scale(0)}
-  to {-webkit-transform:scale(1)}
-}
-
-@keyframes zoom {
-  from {transform:scale(0)}
-  to {transform:scale(1)}
-}
-
-/* The Close Button */
-.close {
-  position: absolute;
-  top: 45px;
-  right: 45px;
+#gallery-modal-close {
+  position: fixed;
+  top: 20px;
+  right: 30px;
   color: #f1f1f1;
-  font-size: 40px;
+  font-size: 42px;
   font-weight: bold;
-  transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
   cursor: pointer;
+  transition: color 0.2s;
+  line-height: 1;
+  user-select: none;
 }
 
-/* 100% Image Width on Smaller Screens */
-@media only screen and (max-width: 700px){
-  .modal-content {
-    width: 100%;
+#gallery-modal-close:hover {
+  color: #aaa;
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0.85); opacity: 0; }
+  to   { transform: scale(1);    opacity: 1; }
+}
+
+@media (max-width: 600px) {
+  .gallery-grid .gallery-item {
+    flex: 1 1 100%;
+  }
+  .gallery-item img {
+    height: 200px;
   }
 }
 </style>
@@ -111,85 +107,43 @@ clear: both;
 
 ### O Laboratório
 
-<div class="row">
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_lab_foto1.png" alt="Lab105" style="width:100%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
-<div class="column-f2c">
-<img id="myImg" class="imageClass" src="/assets/img/img_lab_foto2.png" style="width:90%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img02">
-  <div id="caption"></div>
-</div>
-</div>
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="/assets/img/img_lab_foto1.png" alt="Lab 105 — vista geral" class="gallery-img">
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/img_lab_foto2.png" alt="Lab 105" class="gallery-img">
+  </div>
 </div>
 
 <br>
 
 ----
 
-### I  Encontro do Laboratório de Regressão
+### I Encontro do Laboratório de Regressão
 
-<div class="row">
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto1.png" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto2.png" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img02">
-  <div id="caption"></div>
-</div>
-</div>
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto3.png" style="width:53%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="/assets/img/img_Ienc_foto1.png" alt="I Encontro do Lab de Regressão" class="gallery-img">
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/img_Ienc_foto2.png" alt="I Encontro do Lab de Regressão" class="gallery-img">
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/img_Ienc_foto3.png" alt="I Encontro do Lab de Regressão" class="gallery-img">
+  </div>
 </div>
 
-<br>
-
-<div class="row">
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto4.png" alt="Mesa Redonda" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto5.png" alt="Mesa Redonda" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_Ienc_foto6.png" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="/assets/img/img_Ienc_foto4.png" alt="Mesa Redonda — I Encontro" class="gallery-img">
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/img_Ienc_foto5.png" alt="Mesa Redonda — I Encontro" class="gallery-img">
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/img_Ienc_foto6.png" alt="I Encontro do Lab de Regressão" class="gallery-img">
+  </div>
 </div>
 
 <br>
@@ -198,54 +152,61 @@ clear: both;
 
 ### 25º Simpósio Nacional de Probabilidade e Estatística
 
-<div class="row">
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto1.png" alt="SINAPE" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto2.png" alt="SINAPE" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
-<div class="column-f2c">
-<img id="myImg"  class="imageClass" src="/assets/img/img_sinape_foto3.png" alt="SINAPE" style="width:95%;max-width:300px">
-<div id="myModal" class="modal">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="img01">
-  <div id="caption"></div>
-</div>
-</div>
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="/assets/img/img_sinape_foto1.png" alt="SINAPE 2024" class="gallery-img">
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/img_sinape_foto2.png" alt="SINAPE 2024" class="gallery-img">
+  </div>
+  <div class="gallery-item">
+    <img src="/assets/img/img_sinape_foto3.png" alt="SINAPE 2024" class="gallery-img">
+  </div>
 </div>
 
+<!-- Modal único para toda a galeria -->
+<div id="gallery-modal">
+  <span id="gallery-modal-close">&times;</span>
+  <div class="modal-inner">
+    <img id="gallery-modal-img" src="" alt="">
+    <div id="gallery-modal-caption"></div>
+  </div>
+</div>
 
 <script>
-// Get the modal
-var modal = document.getElementById("myModal");
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var images = document.getElementsByClassName("imageClass");
-for(var i = 0; i < images.length; i++){
-    var img = images[i];
-    var modalImg = document.getElementById("img01");
-    var captionText = document.getElementById("caption");
-    img.onclick = function(){
-        modal.style.display = "block";
-        modalImg.src = this.src;
-        modalImg.alt = this.alt;
-        captionText.innerHTML = this.alt;
-    }
-}
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
+(function () {
+  var modal      = document.getElementById('gallery-modal');
+  var modalImg   = document.getElementById('gallery-modal-img');
+  var caption    = document.getElementById('gallery-modal-caption');
+  var closeBtn   = document.getElementById('gallery-modal-close');
+
+  // Abre o modal ao clicar em qualquer imagem da galeria
+  document.querySelectorAll('.gallery-img').forEach(function (img) {
+    img.addEventListener('click', function () {
+      modal.style.display = 'block';
+      modalImg.src = this.src;
+      modalImg.alt = this.alt;
+      caption.textContent = this.alt;
+      document.body.style.overflow = 'hidden';
+    });
+  });
+
+  // Fecha ao clicar no ×
+  closeBtn.addEventListener('click', closeModal);
+
+  // Fecha ao clicar fora da imagem
+  modal.addEventListener('click', function (e) {
+    if (e.target === modal) closeModal();
+  });
+
+  // Fecha com a tecla Esc
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeModal();
+  });
+
+  function closeModal() {
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
+  }
+})();
 </script>

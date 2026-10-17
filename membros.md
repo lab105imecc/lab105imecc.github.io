@@ -179,88 +179,62 @@ e da modelagem estatística.
 
 ## Ex-Alunos
 
-<p class="member-group-label">Doutorado</p>
-
 <ul class="member-list">
-  <li>Amanda Merian Freitas Mendes
+  <li>Amanda Merian Freitas Mendes <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span>
     <span class="member-links"><a href="http://lattes.cnpq.br/6054083310993609" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/amanda-merian-freitas-mendes-72508b284/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Ana Roberta dos Santos Silva</li>
-  <li>Áurea Fonseca Lopes Galindo
-    <span class="member-links"><a href="http://lattes.cnpq.br/7667588501852147" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/áurea-fonseca-244a791ab/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Carina Brunehilde Pinto da Silva
-    <span class="member-links"><a href="http://lattes.cnpq.br/9278324365724459" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Christian Eduardo Galarza Morales
-    <span class="member-links"><a href="http://lattes.cnpq.br/1340975521059252" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/cgalarza88/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Fernanda Lang Schumacher
-    <span class="member-links"><a href="http://lattes.cnpq.br/8132149083320545" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/fernanda-lang-schumacher-18123775/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>João Victor Bastos de Freitas
-    <span class="member-links"><a href="http://lattes.cnpq.br/9670482171354483" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Jose Alejandro Ordoñez Cuastumal <span style="color:#718096; font-size:0.85rem;">(co-orientação)</span>
-    <span class="member-links"><a href="http://lattes.cnpq.br/7635604449274955" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/josé-alejandro-ordoñez-797771174/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Juan Leonardo Padilla Gomez</li>
-  <li>Katherine Andreina Loor Valeriano
-    <span class="member-links"><a href="http://lattes.cnpq.br/8992394367424165" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Nathalia Lima Chaves</li>
-  <li>Renata Guimarães Romeiro</li>
-  <li>Robinson Ortega Meza
-    <span class="member-links"><a href="http://lattes.cnpq.br/9282485143409166" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/robinson-ortega-meza-0a481587/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Thalita do Bem Mattos
-    <span class="member-links"><a href="http://lattes.cnpq.br/9500569794852267" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/thalitadobem/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-</ul>
-
-<p class="member-group-label">Mestrado</p>
-
-<ul class="member-list">
-  <li>Amanda Merian Freitas Mendes
-    <span class="member-links"><a href="http://lattes.cnpq.br/6054083310993609" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/amanda-merian-freitas-mendes-72508b284/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Andreson Almeida Azevedo
-    <span class="member-links"><a href="http://lattes.cnpq.br/8921663875534508" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/andreson-azevedo/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Áurea Fonseca Lopes Galindo
-    <span class="member-links"><a href="http://lattes.cnpq.br/7667588501852147" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/áurea-fonseca-244a791ab/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Carlos Henrique Trigo Nasser Felix <span style="color:#718096; font-size:0.85rem;">(co-orientação)</span></li>
-  <li>David Esteban Sanchez Vega
-    <span class="member-links"><a href="http://lattes.cnpq.br/8915785499314966" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/david-esteban-sánchez-vega-751b9b16b/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Elainy Marciano Batista</li>
-  <li>Fidel Aniano Causil Barrios</li>
-  <li>Hugo Calegari</li>
-  <li>João Victor Bastos de Freitas
-    <span class="member-links"><a href="http://lattes.cnpq.br/9670482171354483" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Juliana Marchesi Reina</li>
-  <li>Júlio Mendes Pazelli</li>
-  <li>Katherine Andreina Loor Valeriano
-    <span class="member-links"><a href="http://lattes.cnpq.br/8992394367424165" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Keyliane Travassos Almeida da Silva
-    <span class="member-links"><a href="http://lattes.cnpq.br/3118772117815080" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Letícia Bettine Infante <span style="color:#718096; font-size:0.85rem;">(co-orientação)</span>
-    <span class="member-links"><a href="http://lattes.cnpq.br/7158806142046600" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/leticia-bettini-infante-a026a6190/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-  <li>Luis Fernando Pineda Gonzales</li>
-  <li>Marcela Nuñez Lemus
-    <span class="member-links"><a href="http://lattes.cnpq.br/5012340622923104" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Matheus Oliveira de Castro
-    <span class="member-links"><a href="http://lattes.cnpq.br/8557175057873217" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
-  <li>Mayara Caroline Maioli</li>
-  <li>Moisés Augusto Farias da Silva</li>
-  <li>Thaís Castelo Branco Monho</li>
-  <li>Vitor Macedo Rocha
-    <span class="member-links"><a href="http://lattes.cnpq.br/7749317090142178" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/vitor-macedo-rocha-9bb50818a/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
-</ul>
-
-<p class="member-group-label">Iniciação Científica</p>
-
-<ul class="member-list">
   <li>Ana Luiza Ferreira Viana <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
+  <li>Ana Roberta dos Santos Silva <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
   <li>André Lírio Nunes Santos <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
+  <li>Andreson Almeida Azevedo <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/8921663875534508" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/andreson-azevedo/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
+  <li>Áurea Fonseca Lopes Galindo <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/7667588501852147" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/áurea-fonseca-244a791ab/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
+  <li>Carina Brunehilde Pinto da Silva <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/9278324365724459" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
+  <li>Carlos Henrique Trigo Nasser Felix <span style="color:#718096; font-size:0.85rem;">— co-or. Alex Sousa</span></li>
+  <li>Christian Eduardo Galarza Morales <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/1340975521059252" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/cgalarza88/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
+  <li>David Esteban Sanchez Vega <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/8915785499314966" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/david-esteban-sánchez-vega-751b9b16b/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
+  <li>Elainy Marciano Batista <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span></li>
   <li>Eric Pavarim Lima <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
+  <li>Fernanda Lang Schumacher <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/8132149083320545" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/fernanda-lang-schumacher-18123775/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
   <li>Gabriela Martins dos Santos <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
   <li>Gabrielli Fregate Bedana <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
+  <li>Hugo Calegari <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span></li>
+  <li>João Victor Bastos de Freitas <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/9670482171354483" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
   <li>João Victor Siqueira Rodrigues <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
+  <li>Jose Alejandro Ordoñez Cuastumal <span style="color:#718096; font-size:0.85rem;">— co-or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/7635604449274955" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/josé-alejandro-ordoñez-797771174/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
+  <li>Juan Leonardo Padilla Gomez <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
+  <li>Júlio Mendes Pazelli <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
+  <li>Katherine Andreina Loor Valeriano <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/8992394367424165" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
   <li>Leticia Bettini Infante <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span></li>
+  <li>Letícia Bettine Infante <span style="color:#718096; font-size:0.85rem;">— co-or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/7158806142046600" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/leticia-bettini-infante-a026a6190/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
+  <li>Luis Fernando Pineda Gonzales <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
+  <li>Marcela Nuñez Lemus <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/5012340622923104" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a></span></li>
   <li>Marília Gabriela Rocha <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
+  <li>Mayara Caroline Maioli <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
+  <li>Moisés Augusto Farias da Silva <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
   <li>Nathan Brusamarello De Souto <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span></li>
+  <li>Nathalia Lima Chaves <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
   <li>Paulo César de Oliveira Rodrigues <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span></li>
   <li>Rafaela da Silva Barril <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo / Victor Souza</span></li>
   <li>Raul Gomes Rocha <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
+  <li>Renata Guimarães Romeiro <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span></li>
+  <li>Robinson Ortega Meza <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/9282485143409166" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/robinson-ortega-meza-0a481587/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
   <li>Rodrigo de Lima Dantas <span style="color:#718096; font-size:0.85rem;">— or. Caio Azevedo</span></li>
+  <li>Thaís Castelo Branco Monho <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span></li>
+  <li>Thalita do Bem Mattos <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/9500569794852267" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/thalitadobem/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
   <li>Vicenzo Bonasorte Reis Pereira <span style="color:#718096; font-size:0.85rem;">— or. Filidor Labra</span></li>
+  <li>Vitor Macedo Rocha <span style="color:#718096; font-size:0.85rem;">— or. Larissa Matos</span>
+    <span class="member-links"><a href="http://lattes.cnpq.br/7749317090142178" title="Lattes"><img src="/assets/img/icon_lattes.png" alt="Lattes"></a><a href="https://www.linkedin.com/in/vitor-macedo-rocha-9bb50818a/" title="LinkedIn"><img src="/assets/img/icon_linkedin.jpeg" alt="LinkedIn"></a></span></li>
   <li>Vitor Ribas Perrone <span style="color:#718096; font-size:0.85rem;">— or. Alex Sousa</span></li>
 </ul>

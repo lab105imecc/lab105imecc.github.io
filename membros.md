@@ -45,7 +45,7 @@ e da modelagem estatística.
 
   <div class="member-card">
     <img class="member-card-photo" src="/assets/img/membros/alex.jpg"
-         alt="Alex Rodrigo dos Santos Sousa"
+         alt="Alex R. dos Santos Sousa"
          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
     <div class="member-card-avatar" style="display:none;">AR</div>
     <div class="member-card-body">
@@ -55,6 +55,9 @@ e da modelagem estatística.
         <a href="http://lattes.cnpq.br/6521094728394053" title="Lattes">
           <img src="/assets/img/icon_lattes.png" alt="Lattes">
         </a>
+        <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=0jWYjjcAAAAJ" title="Google Scholar">
+          <img src="/assets/img/icon_gscholar.png" alt="Google Scholar">
+        </a>  
       </div>
     </div>
   </div>
@@ -74,6 +77,9 @@ e da modelagem estatística.
         <a href="http://lattes.cnpq.br/0856524274837137" title="Lattes">
           <img src="/assets/img/icon_lattes.png" alt="Lattes">
         </a>
+        <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=wn7bIdAAAAAJ" title="Google Scholar">
+          <img src="/assets/img/icon_gscholar.png" alt="Google Scholar">
+        </a>  
       </div>
     </div>
   </div>
@@ -90,13 +96,16 @@ e da modelagem estatística.
         <a href="http://lattes.cnpq.br/2684306148446558" title="Lattes">
           <img src="/assets/img/icon_lattes.png" alt="Lattes">
         </a>
+        <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=O7GXpU4AAAAJ" title="Google Scholar">
+          <img src="/assets/img/icon_gscholar.png" alt="Google Scholar">
+        </a>    
       </div>
     </div>
   </div>
 
   <div class="member-card">
     <img class="member-card-photo" src="/assets/img/membros/joaovitor.jpg"
-         alt="João Victor Bastos de Freitas"
+         alt="João Victor B. de Freitas"
          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
     <div class="member-card-avatar" style="display:none;">JV</div>
     <div class="member-card-body">
@@ -106,6 +115,9 @@ e da modelagem estatística.
         <a href="http://lattes.cnpq.br/9670482171354483" title="Lattes">
           <img src="/assets/img/icon_lattes.png" alt="Lattes">
         </a>
+        <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=pMRk2qMAAAAJ" title="Google Scholar">
+          <img src="/assets/img/icon_gscholar.png" alt="Google Scholar">
+        </a>      
       </div>
     </div>
   </div>

@@ -296,10 +296,6 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
   <li class="thesis-item"><span class="thesis-year">2021</span><span><span class="thesis-author">Jose Alejandro Ordoñez Cuastumal.</span> <span class="thesis-title-text">On Default Priors for Regression Analysis.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Christian Eduardo Galarza Morales.</span> <span class="thesis-title-text">On Moments of doubly truncated multivariate distributions.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Thalita do Bem Mattos.</span> <span class="thesis-title-text">Modelos paramétricos e semiparamétricos de efeitos mistos para dados longitudinais censurados.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Ana Roberta dos Santos Silva.</span> <span class="thesis-title-text">Item response theory models for augmented continuous-limited responses.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Nathalia Lima Chaves.</span> <span class="thesis-title-text">Generalized Augmented Mixed Birnbaum-Saunders regression models.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Juan Leonardo Padilla Gomez.</span> <span class="thesis-title-text">Bayesian inference for multidimensional item response models under heavy tail skewed latent trait distributions and link functions.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Renata Guimarães Romeiro.</span> <span class="thesis-title-text">Modelos de regressão Birnbaum-Saunders multivariada generalizada.</span> UNICAMP.</span></li>
 </ul>
 </div>
 
@@ -320,12 +316,6 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
   <li class="thesis-item"><span class="thesis-year">2021</span><span><span class="thesis-author">João Victor Bastos de Freitas.</span> <span class="thesis-title-text">Modelos semi-paramétricos para dados independentes e longitudinais baseados em Misturas de Escala Normal Assimétrica Centralizada.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Amanda Merian Freitas Mendes.</span> <span class="thesis-title-text">Generalized mixed Poisson models for overdispersed count data.</span> UNICAMP.</span></li>
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Hugo Calegari.</span> <span class="thesis-title-text">Estimação na distribuição hiperbólica skew-normal: algoritmo EM.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Katherine Andreina Loor Valeriano.</span> <span class="thesis-title-text">Inferência para dados espaço-temporais com respostas censuradas e faltantes.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Thaís Castelo Branco Monho.</span> <span class="thesis-title-text">Modelo de Regressão Normal Inversa Gaussiana com Erros nas Variáveis.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Elainy Marciano Batista.</span> <span class="thesis-title-text">Modelos Birnbaum-Saunders Mistos Aumentados em Zero.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Luis Fernando Pineda Gonzales.</span> <span class="thesis-title-text">Item response models for counting responses.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Marcela Nuñez Lemus.</span> <span class="thesis-title-text">Estimação e diagnóstico em modelos parcialmente lineares censurados sob distribuições de cauda pesada.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2018</span><span><span class="thesis-author">Mayara Caroline Maioli.</span> <span class="thesis-title-text">Modelos de regressão univariados e bivariados baseados nas distribuições de mistura de escala normal assimétrica sob a parametrização centrada.</span> UNICAMP.</span></li>
 </ul>
 </div>
 
@@ -333,7 +323,6 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
 <p class="thesis-type-label"><i class="fa-solid fa-flask-vial"></i>&nbsp; Iniciação Científica</p>
 <ul class="thesis-list">
   <li class="thesis-item"><span class="thesis-year">2020</span><span><span class="thesis-author">Nathan Brusamarello De Souto.</span> <span class="thesis-title-text">Inferência para dados espaço-temporais com respostas censuradas e faltantes: Uma aplicação em dados meteorológicos.</span> UNICAMP.</span></li>
-  <li class="thesis-item"><span class="thesis-year">2019</span><span><span class="thesis-author">Paulo César de Oliveira Rodrigues.</span> <span class="thesis-title-text">Influência que os professores da educação infantil e fundamental I que gostam ou não de matemática exercem sobre seus alunos.</span> UNICAMP.</span></li>
 </ul>
 </div>
 

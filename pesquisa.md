@@ -161,29 +161,20 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
 <ul class="awards-list">
 
   <li class="award-item">
-    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
     <div class="award-body">
-      <p class="award-author">Christian E. Galarza</p>
-      <p class="award-title">On moments of folded and truncated multivariate extended skew-normal distributions</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Best LACSC 2019 Paper Award — 4th Latin American Conference for Statistical Computing</p>
+      <p class="award-author">Katherine Andreina Loor Valeriano</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Tese de Doutorado do 26º SINAPE</p>
     </div>
   </li>
 
   <li class="award-item">
     <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
     <div class="award-body">
-      <p class="award-author">Christian E. Galarza</p>
-      <p class="award-title">Truncated moments of selection elliptical distributions with applications in robust modelling of HIV longitudinal censored data</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; ISI-IBS Young Ambassadors — International Biometrics Conference (IBC 2020)</p>
-    </div>
-  </li>
-
-  <li class="award-item">
-    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
-    <div class="award-body">
-      <p class="award-author">José Alejandro Ordoñez</p>
-      <p class="award-title">Objective Bayesian analysis for the spatial Student-t regression model</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Melhor pôster — XV Brazilian Meeting of Bayesian Statistics</p>
+      <p class="award-author">Áurea Fonseca Lopes Galindo</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 1º lugar — Concurso de Melhor Tese de Doutorado do 26º SINAPE</p>
     </div>
   </li>
 
@@ -191,26 +182,26 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
     <div class="award-icon"><i class="fa-solid fa-award"></i></div>
     <div class="award-body">
       <p class="award-author">Katherine Andreina Loor Valeriano</p>
-      <p class="award-title">Dissertação de Mestrado</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Menção honrosa — Concurso de Dissertação de Mestrado do SINAPE</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 3º lugar — Concurso de Melhor Tese de Doutorado da 69ª RBras e do 21º SEAGRO</p>
     </div>
   </li>
 
   <li class="award-item">
     <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
     <div class="award-body">
-      <p class="award-author">Fernanda Lang Schumacher</p>
-      <p class="award-title">Canonical fundamental skew-t linear mixed models</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Vencedora — Student competition in honour of Fred Smith &amp; Chris Skinner</p>
+      <p class="award-author">João Victor Bastos de Freitas</p>
+      <p class="award-title">Tese de Doutorado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 1º lugar — Concurso de Melhor Tese de Doutorado da 69ª RBras e do 21º SEAGRO</p>
     </div>
   </li>
 
   <li class="award-item">
-    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
     <div class="award-body">
-      <p class="award-author">Áurea Fonseca Lopes Galindo</p>
-      <p class="award-title">Dissertação de Mestrado</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Dissertação de Mestrado do 24º SINAPE</p>
+      <p class="award-author">Larissa Avila Matos</p>
+      <p class="award-title"> Prêmio Para Mulheres na Ciência</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Ganhadora do Prêmio Para Mulheres na Ciência — L’Oréal, Associação Brasileira de Ciências e Unesco</p>
     </div>
   </li>
 
@@ -222,49 +213,58 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
       <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Dissertação de Mestrado do 25º SINAPE</p>
     </div>
   </li>
+
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-body">
+      <p class="award-author">Áurea Fonseca Lopes Galindo</p>
+      <p class="award-title">Dissertação de Mestrado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Dissertação de Mestrado do 24º SINAPE</p>
+    </div>
+  </li>
   
   <li class="award-item">
     <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
     <div class="award-body">
-      <p class="award-author">Larissa Avila Matos</p>
-      <p class="award-title"> Prêmio Para Mulheres na Ciência</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Ganhadora do Prêmio Para Mulheres na Ciência — L’Oréal, Associação Brasileira de Ciências e Unesco</p>
+      <p class="award-author">Fernanda Lang Schumacher</p>
+      <p class="award-title">Canonical fundamental skew-t linear mixed models</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Vencedora — Student competition in honour of Fred Smith &amp; Chris Skinner</p>
     </div>
   </li>  
   
   <li class="award-item">
-    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
-    <div class="award-body">
-      <p class="award-author">João Victor Bastos de Freitas</p>
-      <p class="award-title">Tese de Doutorado</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 1º lugar — Concurso de Melhor Tese de Doutorado da 69ª RBras e do 21º SEAGRO</p>
-    </div>
-  </li>
-  
-  <li class="award-item">
     <div class="award-icon"><i class="fa-solid fa-award"></i></div>
     <div class="award-body">
-      <p class="award-author">Katherine Andreina Loor Valerianoo</p>
-      <p class="award-title">Tese de Doutorado</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 3º lugar — Concurso de Melhor Tese de Doutorado da 69ª RBras e do 21º SEAGRO</p>
+      <p class="award-author">Katherine Andreina Loor Valeriano</p>
+      <p class="award-title">Dissertação de Mestrado</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Menção honrosa — Concurso de Dissertação de Mestrado do SINAPE</p>
     </div>
   </li>
   
   <li class="award-item">
     <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
     <div class="award-body">
-      <p class="award-author">Áurea Fonseca Lopes Galindo</p>
-      <p class="award-title">Tese de Doutorado</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 1º lugar — Concurso de Melhor Tese de Doutorado do 26º SINAPE</p>
+      <p class="award-author">José Alejandro Ordoñez</p>
+      <p class="award-title">Objective Bayesian analysis for the spatial Student-t regression model</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Melhor pôster — XV Brazilian Meeting of Bayesian Statistics</p>
     </div>
   </li>
   
   <li class="award-item">
-    <div class="award-icon"><i class="fa-solid fa-award"></i></div>
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
     <div class="award-body">
-      <p class="award-author">Katherine Andreina Loor Valerianoo</p>
-      <p class="award-title">Tese de Doutorado</p>
-      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; 2º lugar — Concurso de Melhor Tese de Doutorado do 26º SINAPE</p>
+      <p class="award-author">Christian E. Galarza</p>
+      <p class="award-title">Truncated moments of selection elliptical distributions with applications in robust modelling of HIV longitudinal censored data</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; ISI-IBS Young Ambassadors — International Biometrics Conference (IBC 2020)</p>
+    </div>
+  </li>
+  
+  <li class="award-item">
+    <div class="award-icon"><i class="fa-solid fa-medal"></i></div>
+    <div class="award-body">
+      <p class="award-author">Christian E. Galarza</p>
+      <p class="award-title">On moments of folded and truncated multivariate extended skew-normal distributions</p>
+      <p class="award-event"><i class="fa-solid fa-location-dot"></i>&nbsp; Best LACSC 2019 Paper Award — 4th Latin American Conference for Statistical Computing</p>
     </div>
   </li>
 

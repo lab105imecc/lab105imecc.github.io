@@ -187,7 +187,7 @@ No LMR, estamos sempre empenhados em desenvolver pesquisas de ponta e contribuir
     </div>
   </li>
   
-    <li class="award-item">
+  <li class="award-item">
     <div class="award-icon"><i class="fa-solid fa-award"></i></div>
     <div class="award-body">
       <p class="award-author">Katherine Andreina Loor Valeriano</p>
